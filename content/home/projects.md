@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Sexual dimorphism Disease
+    tag: Sex Dim
+  - name: Role of the stages of infection in host-parasite relationships
+    tag: Stage Infection
+  - name: Genetic basis of life story traits
+    tag: Genetic Basis
   - name: Other
-    tag: Demo
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
