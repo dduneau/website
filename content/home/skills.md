@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: Female-droso-mel
+  icon: Icon_Dmel_female
   icon_pack: fas
   name: Functional genetics
 - description: 
