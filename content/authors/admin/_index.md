@@ -39,8 +39,7 @@ education:
     institution: Universtiy of Montpellier II, France
     year: 2005
   
- skills:
-  feature:
+ feature:
 - icon: r-project
   icon_pack: fab
   name: R
