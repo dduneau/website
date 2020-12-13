@@ -16,12 +16,13 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
-  icon: r-project
+- icon: "icon-Droso-female"
+  icon_pack: "custom"
+  name: "Functionnal genetics"
+- icon: r-project
   icon_pack: fab
   name: R
-- description: 
-  icon: chart-line
+- icon: chart-line
   icon_pack: fas
   name: Statistics
 
