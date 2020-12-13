@@ -2,7 +2,7 @@
 title: What makes individuals different facing infections?
 
 event: New Voices in Infection Biology | Virtual Seminar Series
-event_url: <iframe width="560" height="315" src="https://www.youtube.com/embed/e0N7eg-U0hI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+event_url: https://www.youtube.com/embed/e0N7eg-U0hI
 
 location: Max Planck Institute for Infection Biology
 
