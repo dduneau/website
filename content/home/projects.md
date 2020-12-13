@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Sexual dimorphism Disease
+  - name: Sexual dimorphism diseases
     tag: Sexual dimorphism diseases
   - name: Role of the stages of infection in host-parasite relationships
     tag: Stage Infection
