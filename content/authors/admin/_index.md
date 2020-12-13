@@ -36,9 +36,9 @@ education:
   - course: Master in Ecology and Evolutionary Biology
     institution: Universtiy of Montpellier II, France
     year: 2006
-#  - course: BSc in Organismal Biology (Spec.: Animal Biology)
-#    institution: Universtiy of Montpellier II, France
-#    year: 2005
+  - course: BSc in Organismal Biology (Spec.: Animal Biology)
+    institution: Universtiy of Montpellier II, France
+    year: 2005
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
