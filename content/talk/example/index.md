@@ -55,7 +55,7 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **Talk** button above to view the built-in slides feature.
+Click on the **Event** above to view the video on Youtube.
 {{% /callout %}}
 
 
