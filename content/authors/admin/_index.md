@@ -10,9 +10,11 @@ role: PhD in Evolutionary parasitology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Instituto Gulbenkian Ciencia and University Toulouse Paul Sabatier
-  url: https://gulbenkian.pt/ciencia/ / https://edb.cnrs.fr/en/
-
+- name: Instituto Gulbenkian Ciencia 
+  url: https://gulbenkian.pt/ciencia/ 
+- name: University Toulouse Paul Sabatier
+  url: https://edb.cnrs.fr/en/
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research pertain at understanding why some individuals suffer strongly from a given infection and other do not.
 
