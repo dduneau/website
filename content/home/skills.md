@@ -17,10 +17,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: icon.png
-  icon_pack: 
-  name: Functional genetics
-- description: 
   icon: r-project
   icon_pack: fab
   name: R
