@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: David Duneau
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD in Evolutionary parasitology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Instituto Gulbenkian Ciencia and University Toulouse Paul Sabatier
+  url: https://gulbenkian.pt/ciencia/ / https://edb.cnrs.fr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research pertain at understanding why some individuals suffer strongly from a given infection and other do not.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Evolutionary parasitology
+- Infectious diseases
+- Sexual dimorphism
+- 
 
 # Education to show in About widget
 education:
