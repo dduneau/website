@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: icon
+  icon: icon.png
   icon_pack: favicon
   name: Functional genetics
 - description: 
