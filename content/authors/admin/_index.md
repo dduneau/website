@@ -27,12 +27,12 @@ interests:
 - Functional genetics using Drosophila
 
 # Education to show in About widget
-#education:
-#  courses:
-#  - course: PhD student in Evolutionary parasitology
-#    institution: Basel University, Switzerland
-#    #lab: Dieter Ebert
-#    year: 2011
+education:
+  courses:
+  - course: PhD student in Evolutionary parasitology
+    institution: Basel University, Switzerland
+    #lab: Dieter Ebert
+    year: 2011
 #  - course: Master in Ecology and Evolutionary Biology
 #    institution: Universtiy of Montpellier II, France
 #    year: 2006
