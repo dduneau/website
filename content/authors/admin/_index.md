@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD student in Evolutionary parasitology
     institution: Basel University (CH)
-    lab: Dieter Ebert
+    #lab: Dieter Ebert
     year: 2007-23/09/2011
   - course: Master in Ecology and Evolutionary Biology
     institution: Universtiy of Montpellier II
