@@ -5,13 +5,10 @@ summary: Most infectious diseases have a sexually dimorphic outcome. We have bee
 tags:
 - Sexual dimorphism diseases
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 ---
 
-Les recherches sur le modèle Daphnia ont quasiment toujours été faites chez les femelles. Ceci est dû au fait que dans la plupart des conditions naturelles les populations sont très majoritairement composées de femelles. En réalisant que la plupart de mes mâles au laboratoire étaient jetés dans l’évier alors que l’état des connaissances de leur biologie était très limité, je me suis demandé quel pourrait être le rôle du dimorphisme sexuel sur l’évolution des relations hôtes-parasites. Cette réflexion a tout d’abord donné lieu à un essai où j’ai proposé qu’un parasite a d’autant plus de chances de s’adapter au sexe qu’il rencontre le plus fréquemment que, d’une part, ses rencontres avec l’autre sexe sont rares, et que, d’autre part, les différences entre sexes sont grandes (Duneau and Ebert, 2012). Dans cet article, je dresse une liste de conditions où l'on peut s'attendre à ce que les parasites s'adaptent à un des sexes de leur hôte. J’argumente sur la base d’exemples que les différences de symptômes et de prévalence entre sexes décrites pour de nombreux parasites sont en partie expliquées par les propriétés du parasite et non pas uniquement, comme cela est couramment affirmé, par celles de l’hôte.
+Research on the <i>Daphnia</i> model has almost always been done in females. This is due to the fact that in most natural conditions the populations are overwhelmingly female. Realising that most of my males in the laboratory were being thrown down the drain when the state of knowledge of their biology was very limited, I wondered what role sexual dimorphism might play in the evolution of host-parasite relationships. This reflection first gave rise to an essay in which I proposed that a parasite is all the more likely to adapt to the sex it encounters the more frequently that, on the one hand, its encounters with the other sex are rare and, on the other hand, the differences between the sexes are great (Duneau and Ebert, 2012). In this article, I list a number of conditions under which parasites can be expected to adapt to one sex of their host. I argue on the basis of examples that the gender differences in symptoms and prevalence described for many parasites are partly explained by the properties of the parasite and not only, as is commonly claimed, by those of the host.
