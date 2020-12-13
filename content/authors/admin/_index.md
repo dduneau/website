@@ -38,6 +38,13 @@ education:
   - course: BSc in Organismal Biology
     institution: Universtiy of Montpellier II, France
     year: 2005
+  
+ skills:
+  feature:
+- icon: r-project
+  icon_pack: fab
+  name: R
+    
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
