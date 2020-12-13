@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 
   icon: icon.png
-  icon_pack: favicon
+  icon_pack: 
   name: Functional genetics
 - description: 
   icon: r-project
