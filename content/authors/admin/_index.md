@@ -16,7 +16,7 @@ organizations:
   url: https://edb.cnrs.fr/en/
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research pertain at understanding why some individuals suffer strongly from a given infection and other do not.
+bio: My research pertain at understanding why some individuals suffer strongly from a given challenge, generally diseases, and other do not.
 
 # Interests to show in About widget
 interests:
