@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Sexual dimorphism Disease
-    tag: Sex Dim
+    tag: Sexual dimorphism diseases
   - name: Role of the stages of infection in host-parasite relationships
     tag: Stage Infection
   - name: Genetic basis of life story traits
