@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: icon_Dmel_female
+  icon: icon
   icon_pack: favicon
   name: Functional genetics
 - description: 
