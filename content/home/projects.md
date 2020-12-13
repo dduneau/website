@@ -29,10 +29,16 @@ content:
  #   tag: '*'
   - name: Sexual dimorphism diseases
     tag: Sex Dim Dis
-  - name: Role of the stages of infection in host-parasite relationships
+  - name: Within-host dynamic & disease outcome
+    tag: WHD
+  - name: Stages of infection & host-parasite evolution
     tag: Stage Infection
   - name: Genetic basis of life story traits
-    tag: Genetic Basis
+    tag: Genetic basis
+  - name: Parasite manipulation
+    tag: Parasite manipulation
+  - name: Sea bird & Lyme disease
+    tag: Lyme disease
   - name: Other
     tag: Other
 
