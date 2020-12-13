@@ -2,7 +2,7 @@
 title: Sexual dimorphism disease
 summary: Most infectious diseases have a sexually dimorphic outcome. We have been investigating the reason for this dimorphism not only with the common host centered view but also by considering that pathogen can adapt to the most commonly encounter sex.
 tags:
-- Sexual dimorphism diseases
+- Sex Dim Dis
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
