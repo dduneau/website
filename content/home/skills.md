@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 
   icon: icon_Dmel_female
-  icon_pack: fas
+  icon_pack: favicon
   name: Functional genetics
 - description: 
   icon: r-project
