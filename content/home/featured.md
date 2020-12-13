@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Selected Publications
 subtitle: ""
 
 content:
@@ -19,10 +19,10 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "Duneau"
     category: ""
     publication_type: ""
-    tag: ""
+    tag: "Drosophila"
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
