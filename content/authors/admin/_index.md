@@ -32,13 +32,13 @@ education:
   - course: PhD student in Evolutionary parasitology
     institution: Basel University (CH)
     #lab: Dieter Ebert
-    year: 2007-23/09/2011
+    year: 2011
   - course: Master in Ecology and Evolutionary Biology
     institution: Universtiy of Montpellier II
-    year: 2005-2006
+    year: 2006
   - course: BSc in Organismal Biology (Spec.: Animal Biology)
     institution: Universtiy of Montpellier II
-    year: 2001-2005
+    year: 2005
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
