@@ -33,10 +33,10 @@ education:
     institution: Dieter Ebert's lab, Basel University, Switzerland
     year: 2011
   - course: Master in Ecology and Evolutionary Biology
-    institution: Universtiy of Montpellier II, France
+    institution: University of Montpellier II, France
     year: 2006
   - course: BSc in Organismal Biology
-    institution: Universtiy of Montpellier II, France
+    institution: University of Montpellier II, France
     year: 2005
   
     
