@@ -75,6 +75,6 @@ email: ""
 highlight_name: false
 ---
 
-I seek to understand why individuals within a given species respond differently to environmental challenges, especially those coming from parasitic organisms. To study this, I apply concepts from evolutionary biology to model invertebrate systems (e.g., Drosophila melanogaster, Daphnia magna). Fundamentally, my approach is empirical; however, I also deploy tools from functional genetics, genomics, and transcriptomics.
+I seek to understand why individuals within a given species respond differently to environmental challenges, especially those coming from parasitic organisms. To study this, I apply concepts from evolutionary biology to model invertebrate systems (e.g., <i>Drosophila melanogaster</i>, <i>Daphnia magna</i>). Fundamentally, my approach is empirical; however, I also deploy tools from functional genetics, genomics, and transcriptomics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Duneau_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
