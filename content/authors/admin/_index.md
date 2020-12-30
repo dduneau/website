@@ -75,6 +75,6 @@ email: ""
 highlight_name: false
 ---
 
-Understanding why individuals respond differently to environmental challenges, specifically from parasites, has been my research focus for more than a decade. My training in evolutionary biology research, using a range of biological models, gives me the conceptual and technical expertise to study the evolution of host-parasite interactions. Using my skills in data analysis of genomics and transcriptomics, I can identify host responses underlying interactions with natural microbial populations. My knowledge in functional genetics and microbiology allows me to genetically manipulate host characteristics under different infection scenarios to determine the molecular basis of host-parasite interactions.
+I seek to understand why individuals within a given species respond differently to environmental challenges, especially those coming from parasitic organisms. To study this, I apply concepts from evolutionary biology to model invertebrate systems (e.g., Drosophila melanogaster, Daphnia magna). Fundamentally, my approach is empirical; however, I also deploy tools from functional genetics, genomics, and transcriptomics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Duneau_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
