@@ -24,7 +24,7 @@ interests:
 - Infectious diseases
 - Sexual dimorphism
 - Genetic basis of quantitative traits using GWAS
-- Functional genetics using Drosophila
+- Functional genetics using <i>Drosophila</i>
 
 # Education to show in About widget
 education:
