@@ -1,5 +1,5 @@
 ---
-title: "Stochastic variation in the initial phase of bacterial infection predicts the probability of survival in D. melanogaster."
+title: "Stochastic variation in the initial phase of bacterial infection predicts the probability of survival in <i>D. melanogaster</i>."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/Manuscript/Duneau_PLoSBiology_2012.pdf'
+url_pdf: 'publication/Manuscript/Duneau_eLife_2017.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
