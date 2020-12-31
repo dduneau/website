@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Talks"
-  url = "#talk"
+  url = "talk"
   weight = 20
   
 [[main]]
@@ -26,7 +26,7 @@
   
 [[main]]
   name = "People"
-  url = "#People"
+  url = "People"
   weight = 50
 
 [[main]]
