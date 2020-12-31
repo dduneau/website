@@ -60,7 +60,6 @@ url_pdf: '/content/<publication>/<Manuscript>/Faucher_mBio_2020.pdf'
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**David Duneau**]'
-  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
