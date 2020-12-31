@@ -28,7 +28,7 @@ content:
  # - name: All
  #   tag: '*'
   - name: Sexual dimorphism diseases
-    tag: Sex_Dim_Dis
+    tag: Sex Dim Dis
   - name: Within-host dynamic & disease outcome
     tag: WHD
   - name: Stages of infection & host-parasite evolution
