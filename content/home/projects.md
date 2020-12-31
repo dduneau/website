@@ -28,17 +28,17 @@ content:
  # - name: All
  #   tag: '*'
   - name: Sexual dimorphism diseases
-    tag: Sex Dim Dis
+    tag: Sex_Dim_Dis
   - name: Within-host dynamic & disease outcome
     tag: WHD
   - name: Stages of infection & host-parasite evolution
-    tag: Stage Infection
+    tag: Stage_Infection
   - name: Genetic basis of life story traits
-    tag: Genetic basis
+    tag: Genetic_basis
   - name: Parasite manipulation
-    tag: Parasite manipulation
+    tag: Parasite_manipulation
   - name: Sea bird & Lyme disease
-    tag: Lyme disease
+    tag: Lyme_disease
   - name: Other
     tag: Other
 
@@ -51,7 +51,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
