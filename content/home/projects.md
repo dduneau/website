@@ -27,20 +27,20 @@ content:
   filter_button:
  # - name: All
  #   tag: '*'
-  - name: Sexual dimorphism diseases
-    tag: Sex Dim Dis
-  - name: Within-host dynamic & disease outcome
-    tag: WHD
-  - name: Stages of infection & host-parasite evolution
-    tag: Stage_Infection
-  - name: Genetic basis of life story traits
-    tag: Genetic_basis
-  - name: Parasite manipulation
-    tag: Parasite_manipulation
-  - name: Sea bird & Lyme disease
-    tag: Lyme_disease
-  - name: Other
-    tag: Other
+#  - name: Sexual dimorphism diseases
+#    tag: Sex Dim Dis
+#  - name: Within-host dynamic & disease outcome
+#    tag: WHD
+#  - name: Stages of infection & host-parasite evolution
+#    tag: Stage_Infection
+#  - name: Genetic basis of life story traits
+#    tag: Genetic_basis
+#  - name: Parasite manipulation
+#    tag: Parasite_manipulation
+#  - name: Sea bird & Lyme disease
+#    tag: Lyme_disease
+#  - name: Other
+#    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
