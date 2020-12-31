@@ -40,7 +40,7 @@ summary: Within host evolution has been described in many bacterial diseases, an
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
