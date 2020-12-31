@@ -40,7 +40,7 @@ summary: Within host evolution has been described in many bacterial diseases, an
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -61,7 +61,7 @@ url_pdf: '/content/<publication>/<Manuscript>/Faucher_mBio_2020.pdf'
 image:
   caption: 'Image credit: [**David Duneau**]'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
