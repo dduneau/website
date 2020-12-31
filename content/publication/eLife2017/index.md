@@ -1,11 +1,17 @@
 ---
-title: "Stochastic variation in the initial phase of bacterial infection predicts the probability of survival in <i>D. melanogaster</i>."
+title: "Stochastic variation in the initial phase of bacterial infection predicts the probability of survival in D. melanogaster."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
 - admin
+- Ferdy JB
+- Revah J
+- Kondolf HC
+- Ortiz GA
+- Lazzaro BP
+- Buchon N
 
 # Author notes (optional)
 #author_notes:
