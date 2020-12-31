@@ -18,7 +18,7 @@ authors:
 #- "Equal contribution"
 
 date: "2012-02-28T00:00:00Z"
-doi: "10.1371/journal.pbio.1001271"
+doi: "10.7554/eLife.28298"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
