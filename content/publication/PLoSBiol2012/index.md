@@ -42,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/content/publication/Manuscript/Duneau_PLoSBiology_2012.pdf'
+url_pdf: '/Duneau_PLoSBiology_2012.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
