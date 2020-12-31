@@ -13,6 +13,7 @@ image:
   focal_point: Smart
 ---
 
+{{< figure src="Figure_WHD.jpg" title="Theoretical within-host bacterial dynamic" >}}
+
 Blabla
 
-{{< figure src="Figure_WHD.jpg" title="Theoretical within-host bacterial dynamic" >}}
