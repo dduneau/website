@@ -6,7 +6,12 @@ title: "Stochastic variation in the initial phase of bacterial infection predict
 # and it will be replaced with their full name and linked to their profile.
 authors: 
 - admin
-- Dieter Ebert
+- Ferdy JB
+- Revah J
+- Kondolf HC
+- Ortiz GA
+- Lazzaro BP
+- Buchon N
 
 # Author notes (optional)
 #author_notes:
