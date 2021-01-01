@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: '5 last'
+subtitle: 'Five most recents'
 
 content:
   # Page type to display. E.g. post, talk, publication...
