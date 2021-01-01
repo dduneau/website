@@ -2,8 +2,12 @@
 # Display name
 title: Nathalie Parthuisot
 
+# Username (this should match the folder name)
+authors:
+- NParthuisot
+
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Lab manager / Ingénieur d'étude CNRS
