@@ -74,6 +74,11 @@ email: "nathalie.parthuisot@univ-tlse3.fr"
 highlight_name: false
 ---
 
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
+---
 I seek to understand why individuals within a given species respond differently to environmental challenges, especially those coming from parasitic organisms. To study this, I apply concepts from evolutionary biology to model invertebrate systems (e.g., <i>Drosophila melanogaster</i>, <i>Daphnia magna</i>). Fundamentally, my approach is empirical; however, I also deploy tools from functional genetics, genomics, and transcriptomics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Duneau_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
