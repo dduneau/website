@@ -18,7 +18,7 @@ organizations:
   url: https://edb.cnrs.fr/en/
   
 # Short bio (displayed in user profile at end of posts)
-#bio: My work combines the coordination of the activities of the Experimental Technical Platform for Evolutionary and Ecological Microbiology and the implementation of experiments on symbiotic systems studied in the laboratory.
+#bio: 
 
 # Interests to show in About widget
 interests:
@@ -78,6 +78,6 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-I seek to understand why individuals within a given species respond differently to environmental challenges, especially those coming from parasitic organisms. To study this, I apply concepts from evolutionary biology to model invertebrate systems (e.g., <i>Drosophila melanogaster</i>, <i>Daphnia magna</i>). Fundamentally, my approach is empirical; however, I also deploy tools from functional genetics, genomics, and transcriptomics.
+My work combines the coordination of the activities of the Experimental Technical Platform for Evolutionary and Ecological Microbiology and the implementation of experiments on symbiotic systems studied in the laboratory.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Duneau_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
