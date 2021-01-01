@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Lecturer
+role: Lecturer, Toulouse university
 
 # Organizations/Affiliations to show in About widget
 organizations:
