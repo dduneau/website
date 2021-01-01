@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the past and current collaborators
-subtitle:
+title: Collaborators
+subtitle: Current and past
 
 content:
   # Choose which groups/teams of users to display.
