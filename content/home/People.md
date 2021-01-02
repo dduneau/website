@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 4
 
 title: Collaborators
 subtitle: Current and Past
