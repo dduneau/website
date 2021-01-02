@@ -10,7 +10,7 @@ headless: true
 weight: 7
 
 title: Collaborators
-subtitle: Current
+subtitle: (Main)
 
 content:
   # Choose which groups/teams of users to display.
