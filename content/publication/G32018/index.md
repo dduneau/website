@@ -33,7 +33,7 @@ publishDate: "2017-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *G3: Genes/Genomes/Genetics*
+publication: In *G3: Genes,Genomes,Genetics*
 
 abstract: Using GWAS with the Drosophila Reference Genetic Panel (DGRP) found the genetic basis of the resistance to Parathion and Deltamethrin, two commonly used insecticides.
 
