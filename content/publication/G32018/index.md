@@ -7,13 +7,7 @@ title: "Genome wide analysis of resistance to an organophosphate and a pyrethroi
 authors: 
 - admin
 - Sun H
-- Revah J
-- San Miguel K
-- Kunerth HD
-- Caldas IV
-- Messer PW
-- Scott JG
-- Buchon N
+
 
 # Author notes (optional)
 #author_notes:
