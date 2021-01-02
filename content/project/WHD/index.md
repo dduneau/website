@@ -1,6 +1,6 @@
 ---
 title: Within-host dynamics and disease outcomes
-summary: Infection outcomes depend on the success of the parasite within its host. Mixing theoretical and empirical approaches, we study what influences pathogen dynamics and its implication on disease outcome.
+summary: Infection outcome depends on the success of the parasite within its host. With theoretical and empirical approaches, we study what influences pathogen dynamics and its implication on symptoms.
 tags:
 - WHD
 date: "2016-04-27T00:00:00Z"
