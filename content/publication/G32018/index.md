@@ -29,6 +29,9 @@ doi: "doi.org/10.1534/g3.118.200537"
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-12-01T00:00:00Z"
+
 # Publication name and optional abbreviated publication name.
 publication: In *G3: Genes|Genomes|Genetics*
 
