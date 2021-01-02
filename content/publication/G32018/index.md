@@ -30,7 +30,7 @@ doi: "doi.org/10.1534/g3.118.200537"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *G3: Genes|Genomes|Genetics*
+publication: In *G3: Genes,Genomes,Genetics*
 
 abstract: We performed a GWAS approach with the Drosophila Genetic Reference Panel (DGRP) to identify the mutations involved in resistance to two widely used insecticides. Most variation in parathion resistance was associated the target gene Ace, while most variation in deltamethrin resistance was associated with Cyp6a23, a gene encoding a detoxification enzyme never previously associated with resistance. A “nested GWAS” further revealed the contribution of other loci: Dscam1 and trpl (parathion), but only in lines lacking Wolbachia. Cyp6a17 was implicated in deltamethrin resistance. We observed signatures of recent selective sweeps at all of these resistance loci and confirmed that the soft sweep at Ace is indeed driven by the identified resistance mutations. Analysis of allele frequencies in additional population samples revealed that most resistance mutations are segregating across the globe.
 
