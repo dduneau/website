@@ -1,20 +1,21 @@
 ---
-title: "Genome wide analysis of resistance to an organophosphate and a pyrethroid insecticide."
+title: "Sex-specific effects of a parasite evolving in a female-biased host population."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
 - admin
-- Sun H
-
+- Luijckx P
+- Ruder L
+- Ebert D 
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 
 date: "2012-12-01T00:00:00Z"
-doi: "10.1534/g3.118.200537"
+doi: "10.1186/1741-7007-10-104"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-12-01T00:00:00Z"
@@ -26,9 +27,9 @@ publishDate: "2017-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *G3: Genes|Genomes|Genetics*
+publication: In *BMC Biology*
 
-#abstract: We performed a GWAS approach with the Drosophila Genetic Reference Panel (DGRP) to identify the mutations involved in resistance to two widely used insecticides. Most variation in parathion resistance was associated the target gene Ace, while most variation in deltamethrin resistance was associated with Cyp6a23, a gene encoding a detoxification enzyme never previously associated with resistance. A “nested GWAS” further revealed the contribution of other loci: Dscam1 and trpl (parathion), but only in lines lacking Wolbachia. Cyp6a17 was implicated in deltamethrin resistance. We observed signatures of recent selective sweeps at all of these resistance loci and confirmed that the soft sweep at Ace is indeed driven by the identified resistance mutations. Analysis of allele frequencies in additional population samples revealed that most resistance mutations are segregating across the globe.
+abstract: We performed a GWAS approach with the Drosophila Genetic Reference Panel (DGRP) to identify the mutations involved in resistance to two widely used insecticides. Most variation in parathion resistance was associated the target gene Ace, while most variation in deltamethrin resistance was associated with Cyp6a23, a gene encoding a detoxification enzyme never previously associated with resistance. A “nested GWAS” further revealed the contribution of other loci: Dscam1 and trpl (parathion), but only in lines lacking Wolbachia. Cyp6a17 was implicated in deltamethrin resistance. We observed signatures of recent selective sweeps at all of these resistance loci and confirmed that the soft sweep at Ace is indeed driven by the identified resistance mutations. Analysis of allele frequencies in additional population samples revealed that most resistance mutations are segregating across the globe.
 
 # Summary. An optional shortened abstract.
 #summary: Using GWAS with the Drosophila Reference Genetic Panel (DGRP) found the genetic basis of the resistance to Parathion and Deltamethrin, two commonly used insecticides.
@@ -43,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/Manuscript/Duneau_G3_2018.pdf'
+url_pdf: 'publication/Manuscript/Duneau_BMCBiology_2012.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
@@ -65,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-#- 
+- sex-dim-dis
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
