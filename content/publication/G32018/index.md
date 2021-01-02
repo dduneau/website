@@ -1,5 +1,5 @@
 ---
-title: "Sex-specific effects of a parasite evolving in a female-biased host population."
+title: "Signatures of Insecticide Selection in the Genome of <i>Drosophila melanogaster</i>."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
