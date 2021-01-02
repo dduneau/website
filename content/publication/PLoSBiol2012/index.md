@@ -35,7 +35,7 @@ summary: In this "essay" we propose for the first time the idea that the sexual 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
