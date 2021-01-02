@@ -35,7 +35,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *G3 Genes,Genomes,Genetics*
 
-abstract: Insecticide resistance has evolved in many pests. We performed a GWAS approach with the Drosophila Genetic Reference Panel (DGRP) to identify the mutations involved in resistance to two insecticides. Most variation in parathion resistance was associated with Ace, while most variation in deltamethrin resistance was associated with Cyp6a23, encoding a detoxification enzyme never previously associated with resistance. 
+abstract: Insecticide resistance has evolved in many pests. We performed a GWAS approach with the Drosophila Genetic Reference Panel (DGRP) to identify the mutations involved in resistance to two insecticides. Most variation in parathion resistance was associated with Ace, while most variation in deltamethrin resistance was associated with Cyp6a23, encoding a detoxification enzyme never previously associated with resistance. A “nested GWAS” revealed the contribution of other loci: Dscam1 and trpl (parathion), but only in lines lacking Wolbachia; Cyp6a17, paralogous of Cyp6a23,and CG7627, an ATP-binding cassette transporter (deltamethrin). 
 
 # Summary. An optional shortened abstract.
 #summary: Using GWAS with the Drosophila Reference Genetic Panel (DGRP) found the genetic basis of the resistance to Parathion and Deltamethrin, two commonly used insecticides.
