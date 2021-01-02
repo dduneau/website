@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 ---
 
-{{< figure src="manhattan_plot.png" title="Manhattan plot of resistance to parathion" >}}
+{{< figure src="manhattan_plot.png" title="Manhattan plot of resistance to deltamethrin" >}}
 
 Blabla
 
