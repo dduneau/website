@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2018-12-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: "10.1038/s41437-020-0332-x"
 
 # Schedule page publish date (NOT publication's date).
@@ -76,5 +76,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-blabla
