@@ -6,9 +6,14 @@ title: "Sex-specific effects of a parasite evolving in a female-biased host popu
 # and it will be replaced with their full name and linked to their profile.
 authors: 
 - admin
-- Luijckx P
-- Ruder L
-- Ebert D 
+- Sun, H 
+- Revah, J
+- San Miguel, K
+- Kunerth, HD 
+- Caldas, IV
+- Messer, PW
+- Scott, JG 
+- Buchon, N
 
 # Author notes (optional)
 #author_notes:
