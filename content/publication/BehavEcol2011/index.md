@@ -37,13 +37,7 @@ publication: In *Behavioral Ecology*
 abstract: One of the most fascinating examples of parasite-induced host manipulation is that of hairworms, first, because they induce a spectacular ‘‘suicide’’ water-seeking behavior in their terrestrial insect hosts and, second, because the emergence of the parasite is not lethal per se for the host that can live several months following parasite release. The mechanisms hairworms use to increase the encounter rate between their host and water remain, however, poorly understood. Considering the selective landscape in which nematomorph manipulation has evolved as well as previously obtained proteomics data, we predicted that crickets harboring mature hairworms would display a modified behavioral response to light. Since following parasite emergence in water, the cricket host and parasitic worm do not interact physiologically anymore, we also predicted that the host would recover from the modified behaviors. We examined the effect of hairworm infection on different behavioral responses of the host when stimulated by light to record responses from uninfected, infected, and ex-infected crickets. We showed that hairworm infection fundamentally modifies cricket behavior by inducing directed responses to light, a condition from which they mostly recover once the parasite is released. This study supports the idea that host manipulation by parasites is subtle, complex, and multidimensional. 
 
 # Summary. An optional shortened abstract.
-summary: The mechanisms hairworms use to increase the encounter rate between their host and water remain poorly understood. We showed that hairworm infection fundamentally modifies 
-cricket behavior by inducing directed responses to light, a condition from which they mostly recover once the parasite is released. 
-
-Considering the selective landscape in which nematomorph manipulation has evolved as well as previously obtained proteomics data, 
-
-we predicted that crickets harboring mature hairworms would display a modified behavioral response to light. Since following parasite emergence in water, the cricket host and parasitic worm do not interact physiologically anymore, we also predicted that the host would recover
-from the modified behaviors. We examined the effect of hairworm infection on different behavioral responses of the host when stimulated by light to record responses from uninfected, infected, and ex-infected crickets. This study supports the idea that host manipulation by parasites is subtle, complex, and multidimensional. 
+summary: We studied the mechanisms hairworms use to increase the encounter rate between their host and water. We showed that hairworm infection modifies cricket behavior by inducing directed responses to light, a condition from which they mostly recover once the parasite is released. This parasite adaptation may be the best way to find a body of water in a forest.
 
 tags: []
 
@@ -77,7 +71,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Divers
+- Manipulation_parasite
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
