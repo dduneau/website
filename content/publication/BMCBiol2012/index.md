@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/Manuscript/Duneau_BMCBiology_2012.pdf'
+url_pdf: 'publication/Manuscript/Duneau_BMCBiol_2012.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
