@@ -36,12 +36,7 @@ publication: In *Genetics*
 abstract: Within the mated reproductive tracts of females of many taxa, seminal fluid proteins (SFPs) coagulate into a structure known as the mating plug (MP). MPs have diverse roles, including preventing female remating, altering female receptivity postmating, and being necessary for mated females to successfully store sperm. The Drosophila melanogaster MP, which is maintained in the mated female for several hours postmating, is comprised of a posterior MP (PMP) that forms quickly after mating begins and an anterior MP (AMP) that forms later. The PMP is composed of seminal proteins from the ejaculatory bulb (EB) of the male reproductive tract. To examine the role of the PMP protein PEBme in D. melanogaster reproduction, we identified an EB GAL4 driver and used it to target PEBme for RNA interference (RNAi) knockdown. PEBme knockdown in males compromised PMP coagulation in their mates and resulted in a significant reduction in female fertility, adversely affecting postmating uterine conformation, sperm storage, mating refractoriness, egg laying, and progeny generation. These defects resulted from the inability of females to retain the ejaculate in their reproductive tracts after mating. The uncoagulated MP impaired uncoupling by the knockdown male, and when he ultimately uncoupled, the ejaculate was often pulled out of the female. Thus, PEBme and MP coagulation are required for optimal fertility in D. melanogaster. Given the importance of the PMP for fertility, we identified additional MP proteins by mass spectrometry and found fertility functions for two of them. Our results highlight the importance of the MP and the proteins that comprise it in reproduction and suggest that in Drosophila the PMP is required to retain the ejaculate within the female reproductive tract, ensuring the storage of sperm by mated females. 
 
 # Summary. An optional shortened abstract.
-summary: Seminal fluid proteins coagulate inside the female <i>Drosophila</i> into a structure known as the mating plug. PEBme knockdown in males compromised PMP coagulation in their mates. These defects resulted from the inability of females to retain the ejaculate in their reproductive tracts after mating.
-The uncoagulated MP impaired uncoupling by the knockdown male, and when he ultimately uncoupled, the ejaculate was often pulled
-out of the female. Thus, PEBme and MP coagulation are required for optimal fertility in D. melanogaster. Given the importance of the PMP
-for fertility, we identified additional MP proteins by mass spectrometry and found fertility functions for two of them. Our results highlight
-the importance of the MP and the proteins that comprise it in reproduction and suggest that in Drosophila the PMP is required to retain
-the ejaculate within the female reproductive tract, ensuring the storage of sperm by mated females.
+summary: Seminal fluid proteins coagulate inside the female <i>Drosophila</i> into a structure known as the mating plug. We found PEBme knockdown in males compromised mating plug coagulation in their mates and I showed with macrophotography that the inability of females to subsequently retain the ejaculate in their reproductive tracts after mating was frequent. Our set of results highlight the importance of the posterior mating plug in reproduction.
 
 tags: []
 
@@ -53,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/Manuscript/Corse_EcolEvol_2019.pdf'
+url_pdf: 'publication/Manuscript/Avila_Genetics_2015.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
@@ -75,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Genetics_basis
+- Divers
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
