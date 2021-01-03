@@ -1,9 +1,7 @@
 ---
 title: Host manipulation by parasite
 summary: One of the parasite strategy to increase its transmission is to manipulates its host. I started science by studying such strategy.
-tags:
-- Parasite manipulation
-- Former
+tags: ["Parasite manipulation", "Former"]
 
 date: "2016-04-27T00:00:00Z"
 
@@ -16,7 +14,7 @@ image:
 ---
 
 To increase their transmission, parasites can manipulate their host. Such example of extended phenotype provide some of the most extraordinary story in biology. 
-<h2>I have worked on two of them:</h2>
+<h3>I have worked on two of them:</h3>
 <ul>
   <li>Trematode - Gammarus - bird </li>
   <li>Nematomorpha - cricket</li>
