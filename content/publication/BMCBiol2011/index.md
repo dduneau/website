@@ -30,7 +30,7 @@ abstract: This study describes for the first time a mechanism of infection under
 # Summary. An optional shortened abstract.
 summary: First time a mechanism of infection underlying coevolution between a host (<i>Daphnia magna</i>) and his parasite (<i>Pasteuria ramosa</i>).
 
-tags: []
+tags: ["Mec_coevo"]
 
 # Display this page in the Featured widget?
 featured: false
