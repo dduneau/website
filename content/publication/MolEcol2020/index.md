@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/Manuscript/Bento_Heredity_2020.pdf'
+url_pdf: 'publication/Manuscript/pineaux2020.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
