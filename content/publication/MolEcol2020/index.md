@@ -36,7 +36,7 @@ publication: In *Molecular ecology*
 abstract: Genes of the major histocompatibility complex (MHC) play a pivotal role in parasite resistance, and their allelic diversity has been associated with fitness variations in several taxa. However, studies report inconsistencies in the direction of this association, with either positive, quadratic or no association being described. These discrepancies may arise because the fitness costs and benefits of MHC diversity differ among individuals depending on their exposure and immune responses to parasites. Here, we investigated in black-legged kittiwake (Rissa tridactyla) chicks whether associations between MHC class-II diversity and fitness vary with sex and hatching order. MHC-II diversity was positively associated with growth and tick clearance in female chicks, but not in male chicks. Our data also revealed a positive association between MHC-II diversity and survival in second-hatched female chicks (two eggs being the typical clutch size). These findings may result from condition-dependent parasite infections differentially impacting sexes in relation to hatching order. We thus suggest that it may be important to account for individual heterogeneities in traits that potentially exert selective pressures on MHC diversity in order to properly predict MHC–fitness associations.
 
 # Summary. An optional shortened abstract.
-summary: We found taht in black-legged kittiwake (Rissa tridactyla) chicks associations between MHC class-II diversity and fitness vary with sex and hatching order. 
+summary: We found that, in black-legged kittiwake (Rissa tridactyla) chicks, associations between MHC class-II diversity and fitness vary with sex and hatching order. 
 
 tags: [sex-dim-dis]
 
