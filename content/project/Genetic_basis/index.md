@@ -16,5 +16,5 @@ image:
 
 {{< figure src="manhattan_plot.png" title="Manhattan plot of resistance to deltamethrin" >}}
 
-Blabla
+More details to come.
 
