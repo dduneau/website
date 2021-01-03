@@ -42,7 +42,7 @@ content:
 #  - name: Other
 #    tag: Other
   - name: Current
-    tag: Current
+    tag: ["WHD"]
   - name: Former
     tag: Former
 
