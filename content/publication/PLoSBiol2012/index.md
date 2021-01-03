@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *PloS biology*
+publication: In *PLoS Biology*
 
 abstract: In species with separate sexes, parasite prevalence and disease expression is often different between males and females. This effect has mainly been attributed to sex differences in host traits, such as immune response. Here, we make the case for how properties of the parasites themselves can also matter. Specifically, we suggest that differences between host sexes in many different traits, such as morphology and hormone levels, can impose selection on parasites. This selection can eventually lead to parasite adaptations specific to the host sex more commonly encountered, or to differential expression of parasite traits depending on which host sex they find themselves in. Parasites adapted to the sex of the host in this way can contribute to differences between males and females in disease prevalence and expression. Considering those possibilities can help shed light on host–parasite interactions, and impact epidemiological and medical science.
 
