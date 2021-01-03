@@ -22,32 +22,12 @@ doi: "10.1016/j.cub.2013.04.064"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Evolution*
+publication: In *Current biology*
 
-abstract: The maintenance of genetic variation and sex despite its costs [9] has long puzzled biologists. A popular idea, the Red Queen Theory, is that under rapid antagonistic
-coevolution between hosts and their parasites, the
-formation of new rare host genotypes through sex can be
-advantageous as it creates host genotypes to which the
-prevailing parasite is not adapted. For host-parasite coevolution
-to lead to an ongoing advantage for rare genotypes,
-parasites should infect specific host genotypes and hosts
-should resist specific parasite genotypes. The most prominent
-genetics capturing such specificity are matching-allele
-models (MAMs), which have the key feature that resistance
-for two parasite genotypes can reverse by switching one
-allele at one host locus. Despite the lack of empirical support,
-MAMs have played a central role in the theoretical
-development of antagonistic coevolution, local
-adaptation, speciation, and sexual selection. Using genetic crosses, we show that resistance of the
-crustacean Daphnia magna against the parasitic bacterium
-Pasteuria ramosa follows a MAM. Simulation results show
-that the observed genetics can explain the maintenance of
-genetic variation and contribute to the maintenance of sex
-in the facultatively sexual host as predicted by the Red
-Queen Theory. 
+abstract: The maintenance of genetic variation and sex despite its costs has long puzzled biologists. A popular idea, the Red Queen Theory, is that under rapid antagonistic coevolution between hosts and their parasites, the formation of new rare host genotypes through sex can be advantageous as it creates host genotypes to which the prevailing parasite is not adapted. For host-parasite coevolution to lead to an ongoing advantage for rare genotypes, parasites should infect specific host genotypes and hosts should resist specific parasite genotypes. The most prominent genetics capturing such specificity are matching-allele models (MAMs), which have the key feature that resistance for two parasite genotypes can reverse by switching one allele at one host locus. Despite the lack of empirical support, MAMs have played a central role in the theoretical development of antagonistic coevolution, local adaptation, speciation, and sexual selection. Using genetic crosses, we show that resistance of the crustacean Daphnia magna against the parasitic bacterium Pasteuria ramosa follows a MAM. Simulation results show that the observed genetics can explain the maintenance of genetic variation and contribute to the maintenance of sex in the facultatively sexual host as predicted by the Red Queen Theory. 
 
 # Summary. An optional shortened abstract.
-summary: Successful infection depends on the outcome of multiple steps and only some steps of the infection process may be critical in determining a parasites host range. We found that while parasite attachment was possible across several host species (suggesting that alleles on the locus controlling attachment are shared among different host species that diverged 100 million years), proliferation occured only in the native host species. Host range was therefore limited by one step of the infection.
+summary: For host-parasite coevolution to lead to an ongoing advantage for rare genotypes, parasites should infect specific host genotypes and hosts should resist specific parasite genotypes. Using the crustacean <i>Daphnia magna</i> and its parasitic bacterium <i>Pasteuria ramosa</i>, we described for the first time the genetics model capturing best such specificity, the matching-allele models (MAMs). I performed all the attachment tests of this study.  
 
 tags: []
 
