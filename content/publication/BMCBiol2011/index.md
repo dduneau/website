@@ -28,7 +28,7 @@ publication: In *BMC Biology*
 abstract: This study describes for the first time a mechanism of infection underlying the coevolution between a host (<i>Daphnia magna</i>) and his parasite (<i>Pasteuria ramosa</i>). The parasite must attach specifically to the oesophagus of its host to infect it. It is the specificity at this stage of infection that is at the origin of coevolution. We introduce the importance of taking into account the stages of infection to understand the evolution of host-parasite relationships. In this study I also developed the "attachment test" method.
 
 # Summary. An optional shortened abstract.
-#summary: First time a mechanism of infection underlying coevolution between a host (<i>Daphnia magna</i>) and his parasite (<i>Pasteuria ramosa</i>).
+summary: First time a mechanism of infection underlying coevolution between a host (<i>Daphnia magna</i>) and his parasite (<i>Pasteuria ramosa</i>).
 
 tags: []
 
