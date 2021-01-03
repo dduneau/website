@@ -29,7 +29,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *Developmental and Comparative Immunology*
 
-abstract: The existence of immunological memory in invertebrates remains a contentious topic. Exposure of Daphnia magna crustaceans to a noninfectious dose of the bacterium Pasteuria ramosa has been reported to reduce the chance of future infection upon exposure to higher doses. Using clonal hosts and parasites, we tested whether initial exposure of the host to the parasite (priming), followed by clearing of the parasite with antibiotic, protects the host from a second exposure (challenge). Our experiments included three treatments: priming and challenge with the same or with a different parasite clone, or no priming. Two independent experiments showed that both the likelihood of infection and 
+abstract: The existence of immunological memory in invertebrates remains a contentious topic. Exposure of Daphnia magna crustaceans to a noninfectious dose of the bacterium Pasteuria ramosa has been reported to reduce the chance of future infection upon exposure to higher doses. Using clonal hosts and parasites, we tested whether initial exposure of the host to the parasite (priming), followed by clearing of the parasite with antibiotic, protects the host from a second exposure (challenge). 
 
 # Summary. An optional shortened abstract.
 summary: We tested immune priming in <i>Daphnia<i> and our results support the conclusion that there is no immunological memory in to <i>Pasteuria ramosa</i> infections. 
