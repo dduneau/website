@@ -41,7 +41,7 @@ publication: In *Ecology and Evolution*
 abstract: We investigated the taxonomic coverage and complementarity of three cytochrome c oxidase subunit I gene (COI) primer sets based on in silico analyses and we conducted an in vivo evaluation using fecal and spider web samples from different invertivores, environments, and geographic locations.We formalized the “one‐locus‐several‐primer‐sets” (OLSP) strategy, that is, the use of several primer sets that target the same locus (here the first part of the COI gene) and the same group of taxa (here invertebrates) to minimize false negatives by increasing total coverage through multiple primer sets. The OLSP strategy produces largely overlapping and comparable sequences, which cannot be achieved when targeting different loci.
 
 # Summary. An optional shortened abstract.
-summary: I sampled web spider to show that we used them as DNA traps to describe biodiversity with metabarcoding.
+summary: I sampled spider webs in the tropical rainforest of French Guyana to show that we used them as DNA traps to describe biodiversity with metabarcoding.
 
 tags: []
 
