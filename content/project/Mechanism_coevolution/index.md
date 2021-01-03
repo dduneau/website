@@ -1,6 +1,6 @@
 ---
 title: Mechanism host-parasite coevolution
-summary: Parasites needs to face a succession of steps of infection in order to be successful. We study how steps of infections can evolve independantly and shape host-parasite interactions.
+summary: Parasites need to go through several infection steps to be successfull. We study how the evolution at each step shapes host-parasite coevolution.
 
 tags: ["Mec_coevo","Former"]
 
