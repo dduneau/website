@@ -9,7 +9,7 @@ authors:
 - Merkling T
 - Danchin E
 - Hatch S
-- main
+- admin
 - Blanchard P
 - Leclaire S
 
