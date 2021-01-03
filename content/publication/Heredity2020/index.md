@@ -60,9 +60,9 @@ image:
   caption: 'Image credit: [**David Duneau**]'
   focal_point: ""
   preview_only: false
-#  overlay_color = ""  # An HTML color value.
+  overlay_color = ""  # An HTML color value.
   overlay_img = "Figure_WHD.jpg"  # Image path relative to your `static/img/` folder.
-#  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
