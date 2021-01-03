@@ -15,3 +15,5 @@ image:
 ---
 
 {{< figure src="Figure_steps_Pasteuria.jpg" title="Step of infection of Pasteuria" >}}
+
+Details to come.
