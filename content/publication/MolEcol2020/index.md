@@ -38,7 +38,7 @@ abstract: Genes of the major histocompatibility complex (MHC) play a pivotal rol
 # Summary. An optional shortened abstract.
 summary: We found that, in black-legged kittiwake (Rissa tridactyla) chicks, associations between MHC class-II diversity and fitness vary with sex and hatching order. 
 
-tags: [sex-dim-dis]
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -70,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Genetics_basis
+- sex-dim-dis
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
