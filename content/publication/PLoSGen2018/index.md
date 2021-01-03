@@ -32,7 +32,7 @@ publication: In *PLoS Genetics*
 abstract: Environmental conditions can influence development and lead to the production of phenotypes adjusted to the conditions adults will live in. This developmental plasticity, which can help organisms cope with environmental heterogeneity, is heritable and under selection. Its evolution will depend on available genetic variation. Using a panel of D. melanogaster flies representing naturally segregating alleles, we identified DNA sequence variants associated to variation in thermal plasticity for body size. We found that these variantscorrespond to a diverse set of functions and that their effects differ between body parts and properties of the thermal response. Our results shed new light onto the long discussed genes for plasticity.
 
 # Summary. An optional shortened abstract.
-summary: Using GWAS in <i>Drosophila</i>, we determined the genetic basis of thermal plasticity of thorax and abdomen size.
+summary: Using GWAS in <i>Drosophila</i>, we determined the genetic basis of thermal plasticity of thorax and abdomen size. Variations of plasticity between those body parts were explained by completely different set of genes.
 
 tags: []
 
