@@ -1,14 +1,22 @@
 ---
-title: "Sexual dimorphisms in innate immunity and responses to Infection in Drosophila melanogaster"
+title: "One‐locus‐several‐primers: A strategy to improve the taxonomic and haplotypic coverage in diet metabarcoding studies"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
-- Belmonte RL
-- Corbally M-K
+- Corse E
+- Tougard C
+- Archambaud G
+- Agnèse J-F
+- Messu Mandeng FD
+- Bilong Bilong CF
 - admin
-- Regan JC
+- Zinger L
+- Chappaz R
+- Xu CCY
+- Méglecz E
+- Dubut V 
 
 # Author notes (optional)
 #author_notes:
