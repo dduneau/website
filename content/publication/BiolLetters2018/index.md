@@ -31,7 +31,7 @@ publication: In *Biology letters*
 abstract: Organisms with complex life cycles can differ markedly in their biology across developmental life stages. Consequently, distinct life stages can represent drastically different environments for parasites. This difference is especially striking with holometabolous insects, which have dramatically different larval and adult life stages, bridged by a complete metamorphosis. There is no a priori guarantee that a parasite infecting the larval stage would be able to persist into the adult stage. In fact, to our knowledge, transstadial transmission of extracellular pathogens has never been documented in a host that undergoes complete metamorphosis. We tested the hypothesis that a bacterial parasite originally sampled froman adult host could infect a larva, then survive through metamorphosis and persist into the adult stage. As a model, we infected the host Drosophila melanogaster with a horizontally transmitted, extracellular bacterial pathogen, Providencia rettgeri. We found that this natural pathogen survived systemic infection of larvae (L3) and successfully persisted into the adult host. We then discuss how it may be adaptive for bacteria to transverse life stages and even minimize virulence at the larval stage in order to benefit from adult dispersal.
 
 # Summary. An optional shortened abstract.
-summary: Using GWAS in <i>Drosophila</i>, we determined the genetic basis of thermal plasticity of thorax and abdomen size. Variations of plasticity between those body parts were explained by completely different set of genes.
+summary: Distinct life stages can represent drastically different environments for parasites especially when larval and adult life stages are bridged by a complete metamorphosis. We showed that systemic infection with an extracellular bacteria can transverse life stages.
 
 tags: []
 
@@ -65,7 +65,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Genetics_basis
+- WHD
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
