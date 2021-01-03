@@ -16,20 +16,3 @@ image:
 #{{< figure src="Figure_WHD.jpg" title="Theoretical within-host bacterial dynamic" >}}
 
 Details to come.
-
----
-title: Publications
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 3
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
----
-
