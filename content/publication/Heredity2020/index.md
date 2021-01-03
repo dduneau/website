@@ -61,7 +61,7 @@ image:
   focal_point: ""
   preview_only: false
 #  overlay_color = ""  # An HTML color value.
-#  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "Figure_WHD.jpg"  # Image path relative to your `static/img/` folder.
 #  overlay_filter = 0.0  # Darken the image. Value in range 0-1.
 
 # Associated Projects (optional).
