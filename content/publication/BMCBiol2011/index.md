@@ -30,7 +30,7 @@ abstract: This study describes for the first time a mechanism of infection under
 # Summary. An optional shortened abstract.
 summary: Investigate the mechanism of infection underlying coevolution between a host (<i>Daphnia magna</i>) and his parasite (<i>Pasteuria ramosa</i>). We found that the specificity depend on the capacity of the parasite to attach or not to the host oesophagus.
 
-tags: ["Mec_coevo"]
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -62,7 +62,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Sex-Dim-diseases
+- Mec_coevo
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
