@@ -1,5 +1,5 @@
  ---
-title: "Spécialisation de la tique des oiseaux marins et diversité des bactéries du complexe Borrelia burgdorferi sensu lato, agents de la maladie de Lyme  effets en cascade dans les systèmes à vecteur"
+title: "Spécialisation de"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
