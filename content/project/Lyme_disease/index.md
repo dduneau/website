@@ -14,8 +14,6 @@ image:
   focal_point: Smart
 ---
 
-#{{< figure src="Figure_steps_Pasteuria.jpg" title="Step of infection of Pasteuria" >}}
-
 This was the project I was part of during my second year of Masters.  
 
 Details to come.
