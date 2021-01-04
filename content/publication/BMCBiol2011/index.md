@@ -13,7 +13,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 
-date: "2012-02-22T00:00:00Z"
+date: "2011-02-22T00:00:00Z"
 doi: "10.1186/1741-7007-9-11"
 
 # Publication type.
