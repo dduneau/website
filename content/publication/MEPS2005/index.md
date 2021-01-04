@@ -1,5 +1,5 @@
 ---
-title: "Ecology of populations parasitically modified&#58 a case study from a gammarid (Gammarus insensibilis)-trematode (Microphallus papillorobustus) system"
+title: "Ecology of populations parasitically modified: a case study from a gammarid (Gammarus insensibilis)-trematode (Microphallus papillorobustus) system"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
