@@ -1,6 +1,6 @@
 ---
 title: Lyme disease in seabirds
-summary: Lyme disease is a major threat in many countries. The bacteria responsible is transmitted by ticks and the main reservoir are mammals. We studied the role of seabird as reservoir.
+summary: Lyme disease is a major threat in many countries. The bacteria responsible for it is mainly transmitted by ticks feeding on mammals. We studied the role of seabird as reservoir.
 
 tags: ["Lyme_disease","Former"]
 
@@ -14,7 +14,8 @@ image:
   focal_point: Smart
 ---
 
-{{< figure src="Figure_steps_Pasteuria.jpg" title="Step of infection of Pasteuria" >}}
+#{{< figure src="Figure_steps_Pasteuria.jpg" title="Step of infection of Pasteuria" >}}
 
-This was the project I was part of during my second year of Masters.
+This was the project I was part of during my second year of Masters.  
+
 Details to come.
