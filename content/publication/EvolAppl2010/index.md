@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/Manuscript/Ponton_BehavEcol_2011.pdf'
+url_pdf: 'publication/Manuscript/GomezDiaz_EvolApp_2010.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
