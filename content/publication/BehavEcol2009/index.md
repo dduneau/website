@@ -1,22 +1,22 @@
 ---
-title: "Water-seeking behavior in worm-infected crickets and reversibility of parasitic manipulation"
+title: "Effect of parasite-induced behavioral alterations on juvenile development."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors: 
 - Ponton F
-- Otalora-Luna F
-- Lefevre T
-- Guerin PM
-- Lebarbenchon C
 - admin
-- Biron DG
-- Thomas F 
+- Sanchez M
+- Courtiol A
+- Terekhin A
+- Budilova EV
+- Renaud F
+- Thomas F  
 
 # Author notes (optional)
 #author_notes:
-#- "Equal contribution"
+- "Equal contribution"
 #- "Equal contribution"
 
 date: "2009-07-10T00:00:00Z"
