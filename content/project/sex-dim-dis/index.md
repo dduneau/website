@@ -21,4 +21,5 @@ image:
 {{< figure src="Figure_sex_dim.jpg" title="Sex specific adaptation of parasites. More a parasite evolves within one host sex and greater is the host sexual dimorphism, more likely the parasite will adapt specifically to the characteristic of its host" >}}
 
 We then tested my hypothesis with <i>Daphnia magna</i> and its parasitic bacterium <i>Pasteuria ramosa</i> [Duneau et al., 2012](Duneau_PLoSBiology_2012.pdf). This pathogen evolves in host populations that are predominantly female and we were able to show that, as expected, it exploited females better than males. The parasite was known to induce castration of its host (female) as an adaptation to induce gigantism and increase the carrying capacity of its environment. We confirmed that the parasite induced an increase in carrying capacity through gigantism in females. However, if the males were also castrated by the infection, this had no effect on their size. In fact, the adaptation that is advantageous when the females are infected (the common host) is not advantageous when the males are infected. We therefore revealed a sex-specific adaptation of a parasite in nature.
-
+{{< figure src="Graph_daphnia_gigantism.jpg" title="<i>Daphnia magna</i> size while infected wit <i>Pasteuria ramosa</i> or not. The parasite induces gigantism in females but not in males." >}}
+ 
