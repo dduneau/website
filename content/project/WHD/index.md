@@ -21,6 +21,5 @@ By modifying the immune characteristics of the host, we were able to determine t
 
 
 
-#{{< figure src="Figure_WHD.jpg" title="Theoretical within-host bacterial dynamic" >}}
 
-Details to come.
+<b>More details to come.</b>
