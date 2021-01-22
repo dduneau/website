@@ -21,4 +21,3 @@ To increase their transmission, parasites can manipulate their host. Such exampl
 {{< figure src="nematomorpha_narine_frog.jpg" title="Parasite escaping from the nostril of the predator of its host" >}}
 
 
-{{< video src="frog_nematomorph.mp4", controls="yes" >}}
