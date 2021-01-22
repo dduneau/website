@@ -35,7 +35,7 @@ publication: In *eLife*
 abstract: A central problem with biomedicine is to understand why two individuals exposed to seemingly identical infections may have radically different clinical outcomes. Using the <i>Drosophila melanogaster</i> model, we analyse in depth, both through functional genetics and mathematical modeling, the main determinants that underlie the stochastic outcome of infection. First, we show a role of stochasticity in infection. Second, we have identified two new measures of bacterial loads (Bacterial Load Upon Death and load during chronicity) to describe the infectious process. Third, we have linked host survival and bacterial proliferation within the host. Fourth, we have developed an integrative and dynamic model of infection which accurately predicts the outcome of infection.
 
 # Summary. An optional shortened abstract.
-summary: A central problem with biomedicine is to understand why two individuals exposed to seemingly identical infections may have radically different clinical outcomes. Using the <i>Drosophila melanogaster</i> model, we analyse in depth, both through functional genetics and mathematical modeling, the main determinants that underlie the stochastic outcome of infection.
+summary: A central problem with biomedicine is to understand why two individuals exposed to seemingly identical infections may have radically different clinical outcomes. Using the <i>Drosophila melanogaster</i> model, we analyse in depth, both through functional genetics and mathematical modelling, the main determinants that underlie the stochastic outcome of infection.
 
 tags: []
 
