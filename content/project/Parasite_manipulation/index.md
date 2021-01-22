@@ -11,8 +11,8 @@ image:
   focal_point: Smart
 ---
 
-To complete their life cycle, parasites can manipulate their host. Such example of extended phenotype provide some of the most extraordinary story in biology. 
-<h3>I have worked on two of them:</h3>
+To complete their life cycle, parasites can manipulate their host. Such example of extended phenotype provides some of the most extraordinary stories in biology. 
+<h3>I have studied two of them:</h3>
 <ul>
   <li>Trematode - Gammarus - bird </li>
   <li>Hairworm - cricket</li>
@@ -26,12 +26,10 @@ Insects, such as crickets, harboring mature hairworms display a new and original
 
 {{< video src="Hairworm_jumping.mp4" controls="yes">}} 
 
-During the time the hairworm is leaving its host, the cricket is active at the surface and attractive to aquatic predators such as fish and frogs. Death of the worm would be expected to result from generalist predation upon the host at this stage unless the parasite were capable of an antipredator response. We found that in fact, the hairworm is able to fight its way out [(Ponton et al. 2006a)](Ponton_Nature_2006.pdf) and survive without apparent fitness cost [(Ponton et al. 2006b)](Ponton_parasito_2006.pdf).
+During the time the hairworm is leaving its host, the cricket is active at the surface and attractive to aquatic predators such as fish and frogs. If they are not predated, we showed that the host can survive and the attraction to light is abolished [(Ponton et al. 2011)](Ponton_BehavEcol_2011.pdf). However, if the host is predated, death of the worm would be expected unless the parasite were capable of an antipredator response. We found that in fact, the hairworm is able to fight its way out [(Ponton et al. 2006a)](Ponton_Nature_2006.pdf) and survive without apparent fitness cost [(Ponton et al. 2006b)](Ponton_parasito_2006.pdf).
 
-{{< video src="frog_nematomorph.mp4" controls="yes">}} 
+{{< video src="frog_nematomorph.mp4" controls="yes">}}
 
 They can even escape from the nostril and the gills of the predator.
 
 {{< figure src="nematomorpha_narine_frog.jpg" title="Parasite escaping from the nostril of the predator of its host" >}}
-
-
