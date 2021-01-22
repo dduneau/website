@@ -14,7 +14,5 @@ image:
   focal_point: Smart
 ---
 
-{{< figure src="manhattan_plot.png" title="Manhattan plot of resistance to deltamethrin" >}}
-
-More details to come.
+<b>In construction</b>
 
