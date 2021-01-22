@@ -36,7 +36,7 @@ publication: In *Nature*
 abstract: As prisoners in their living habitat, parasites should be vulnerable to destruction by the predators of their hosts. But we show here that the parasitic gordian worm Paragordius tricuspidatus is able to escape not only from its insect host after ingestion by a fish or frog but also from the digestive tract of the predator. This remarkable tactic enables the worm to continue its life cycle. 
 
 # Summary. An optional shortened abstract.
-summary: As prisoners in their living habitat, parasites should be vulnerable to destruction by the predators of their hosts. We show that the parasitic hairworm is able to escape not only from its insect host after ingestion by a fish or frog.
+summary: As prisoners in their living habitat, parasites should be vulnerable to destruction by the predators of their hosts. We show that the parasitic hairworm is able to escape from the predators (fish or frog) of its insect hosts.
 
 tags: []
 
