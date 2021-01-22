@@ -11,7 +11,7 @@ image:
   focal_point: Smart
 ---
 
-To increase their transmission, parasites can manipulate their host. Such example of extended phenotype provide some of the most extraordinary story in biology. 
+To complete their life cycle, parasites can manipulate their host. Such example of extended phenotype provide some of the most extraordinary story in biology. 
 <h3>I have worked on two of them:</h3>
 <ul>
   <li>Trematode - Gammarus - bird </li>
