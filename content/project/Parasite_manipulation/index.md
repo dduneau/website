@@ -22,14 +22,15 @@ One of the most fascinating examples of parasite-induced host manipulation is th
 
 {{< video src="Gordian_knot.mp4" controls="yes">}} 
 
-Insects, such as crickets, harboring mature hairworms display a new and original behavior: they seek water to immerse themselves. We found that such infected insect were attracted by the light, which seems to be the best way to find an open place with water in a forest [(Ponton et al. 2011)](Ponton_BehavEcol_2011.pdf). This behavior, originally absent from the host’s repertoire, allows the parasite to emerge from its host into the aquatic environment it needs to continue its life cycle.
+Insects, such as crickets, harboring mature hairworms display a new and original behavior: they seek water to immerse themselves. We found that such infected insects were attracted by the light, which seems to be the best way to find an open space with a water body in a forest [(Ponton et al. 2011)](Ponton_BehavEcol_2011.pdf). This behavior, originally absent from the host’s repertoire, allows the parasite to emerge from its host into the aquatic environment it needs to continue its life cycle.
 
 {{< video src="Hairworm_jumping.mp4" controls="yes">}} 
 
+During the time the hairworm is leaving its host, the cricket is active at the surface and attractive to aquatic predators such as fish and frogs. Death of the worm would be expected to result from generalist predation upon the host at this stage unless the parasite were capable of an antipredator response. We found that in fact, the hairworm is able to fight its way out [(Ponton et al. 2006a)](Ponton_Nature_2006.pdf) and survive without apparent fitness cost [(Ponton et al. 2006b)](Ponton_parasito_2006.pdf).
 
+{{< video src="frog_nematomorph.mp4" controls="yes">}} 
 
-
-During this time, the cricket is active at the surface and attractive to aquatic predators such as fish and frogs (F.T., unpublished observations). Death of the worm would be expected to result from generalist predation upon the host at this stage unless the parasite were capable of an antipredator response.
+They can even escape from the nostril and the gills of the predator.
 
 {{< figure src="nematomorpha_narine_frog.jpg" title="Parasite escaping from the nostril of the predator of its host" >}}
 
