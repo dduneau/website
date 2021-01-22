@@ -15,13 +15,21 @@ To complete their life cycle, parasites can manipulate their host. Such example 
 <h3>I have worked on two of them:</h3>
 <ul>
   <li>Trematode - Gammarus - bird </li>
-  <li>Nematomorpha - cricket</li>
+  <li>Hairworm - cricket</li>
 </ul>  
 
-The nematomorpha larvae first live in aquatic larva of insects. When the adult insect flies away, it leaves the water with this hairworm which is still a larvae. When it dies, crickets can get infected by feeding on the decaying corps. Then the hairworm start to grow within its cricket host. However, when it get matture, the male or the female hairworm needs to go back to a water body in order to find mates and reproduce in a structure called Gordian knots.
+One of the most fascinating examples of parasite-induced host manipulation is that of hairworms (nematomorpha). As juveniles, freshwater hairworms are mostly parasites of insects but, once adult, they are free living and need to enter water to gather with other males and females, making Gordian knots, to mate and produce infective stages. 
 
 {{< video src="Gordian_knot.mp4" controls="yes">}} 
 
+Insects, such as crickets, harboring mature hairworms display a new and original behavior: they seek water to immerse themselves. We found that such infected insect were attracted by the light, which seems to be the best way to find an open place with water in a forest (Ponton et al. 2011)[Ponton_BehavEcol_2011.pdf]. This behavior, originally absent from the host’s repertoire, allows the parasite to emerge from its host into the aquatic environment it needs to continue its life cycle.
+
+{{< video src="Hairworm_jumping.mp4" controls="yes">}} 
+
+
+
+
+During this time, the cricket is active at the surface and attractive to aquatic predators such as fish and frogs (F.T., unpublished observations). Death of the worm would be expected to result from generalist predation upon the host at this stage unless the parasite were capable of an antipredator response.
 
 {{< figure src="nematomorpha_narine_frog.jpg" title="Parasite escaping from the nostril of the predator of its host" >}}
 
