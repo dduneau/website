@@ -37,7 +37,7 @@ publication: In *BMC Biology*
 abstract: Host sexual dimorphism is being increasingly recognized to generate strong differences in the outcome of infectious disease, but the mechanisms underlying immunological differences between males and females remain poorly characterized. In this study, females tend to be more susceptible to infection because of a lower ability to control infection. This lower resistance to infection is not due to general weakness of females, but to a difference in the immune activity of the Toll pathway, analogous to TLR signalling in mammals. Pathway activation and susceptibility can be specifically attributed to the Persephone protein, a serine-protease upstream of the Toll pathway that is activated by bacterial virulence.
 
 # Summary. An optional shortened abstract.
-summary: Our work has elucidated the mechanism of the difference between males and females <i>Drosophila melanogaster</i> in terms of susceptibility to infection. Altogether, our data demonstrate that Toll pathway activity differs between male and female <i>D. melanogaster</i> in response to bacterial infection, thus identifying innate immune signaling as a determinant of sexual immune dimorphism.
+summary: Our work has elucidated the mechanism of the difference between males and females <i>Drosophila melanogaster</i> in terms of susceptibility to infection. Altogether, our data demonstrate that Toll pathway activity differs between male and female <i>D. melanogaster</i> in response to bacterial infection, thus identifying innate immune signalling as a determinant of sexual immune dimorphism.
 
 tags: []
 
