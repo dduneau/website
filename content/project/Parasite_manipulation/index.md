@@ -22,7 +22,7 @@ One of the most fascinating examples of parasite-induced host manipulation is th
 
 {{< video src="Gordian_knot.mp4" controls="yes">}} 
 
-Insects, such as crickets, harboring mature hairworms display a new and original behavior: they seek water to immerse themselves. We found that such infected insect were attracted by the light, which seems to be the best way to find an open place with water in a forest (Ponton et al. 2011)[Ponton_BehavEcol_2011.pdf]. This behavior, originally absent from the host’s repertoire, allows the parasite to emerge from its host into the aquatic environment it needs to continue its life cycle.
+Insects, such as crickets, harboring mature hairworms display a new and original behavior: they seek water to immerse themselves. We found that such infected insect were attracted by the light, which seems to be the best way to find an open place with water in a forest [(Ponton et al. 2011)](Ponton_BehavEcol_2011.pdf). This behavior, originally absent from the host’s repertoire, allows the parasite to emerge from its host into the aquatic environment it needs to continue its life cycle.
 
 {{< video src="Hairworm_jumping.mp4" controls="yes">}} 
 
