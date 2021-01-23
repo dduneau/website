@@ -1,5 +1,5 @@
 ---
-title: 04- Sexual selection in parthenogenetic species
+title: 07- Sexual selection in parthenogenetic species
 summary: Parthenogenetic species produce mainly daughter without males. We study the selection during the rare event of sexual reproduction.
 tags: ["WHD","Current"]
 
