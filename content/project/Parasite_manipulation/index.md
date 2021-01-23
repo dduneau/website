@@ -1,5 +1,5 @@
 ---
-title: 01-Host manipulation by parasite
+title: 01- Host manipulation by parasite
 summary: One of the parasite strategy to increase its transmission is to manipulates its host. I started science by studying such strategy.
 tags: ["Parasite manipulation", "Former"]
 
@@ -26,7 +26,7 @@ Insects, such as crickets, harboring mature hairworms display a new and original
 
 {{< video src="Hairworm_jumping.mp4" controls="yes">}} 
 
-During the time the hairworm is leaving its host, the cricket is active at the surface and attractive to aquatic predators such as fish and frogs. If they are not predated, we showed that the host can survive and the attraction to light is abolished [(Ponton et al. 2011)](Ponton_BehavEcol_2011.pdf). However, if the host is predated, death of the worm would be expected unless the parasite were capable of an antipredator response. We found that in fact, the hairworm is able to fight its way out [(Ponton et al. 2006a)](Ponton_Nature_2006.pdf) and survive without apparent fitness cost [(Ponton et al. 2006b)](Ponton_parasito_2006.pdf).
+During the time the hairworm is leaving its host, the cricket is active at the surface and attractive to aquatic predators such as fish and frogs. If they are not predated, we showed that the host can survive and the attraction to light is abolished [(Ponton et al. 2011)](Ponton_BehavEcol_2011.pdf). However, if the host is predated, death of the worm would be expected unless the parasite were capable of an antipredator response. We found that in fact, the hairworm is able to fight its way out [(Ponton et al. 2006a)](Ponton_Nature_2006.pdf) and survive without apparent fitness cost [(Ponton et al. 2006b)](Ponton_parasito_2006.pdf). 
 
 {{< video src="frog_nematomorph.mp4" controls="yes">}}
 
