@@ -1,5 +1,5 @@
 ---
-title: Lyme disease in seabirds
+title: 07-Lyme disease in seabirds
 summary: Lyme disease is a major threat in many countries. The bacteria responsible for it is mainly transmitted by ticks feeding on mammals. We studied the role of seabirds as reservoir.
 
 tags: ["Lyme_disease","Former"]
