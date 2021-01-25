@@ -67,7 +67,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Lyme disease
+- Lyme_disease
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
