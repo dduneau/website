@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD student in Evolutionary parasitology
+  - course: PhD student in Evolutionary Parasitology
     institution: Dieter Ebert's lab, Basel University, Switzerland
     year: 2011
   - course: Master in Ecology and Evolutionary Biology
