@@ -1,10 +1,12 @@
 ---
-title: 01- HOST MANIPULATION BY PARASITES
+title: HOST MANIPULATION BY PARASITES
 summary: One of the parasite strategy to increase its transmission is to manipulates its host. I started science by studying such strategy.
 tags: ["Parasite manipulation", "Former"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
+
+date: "2021-04-27T00:00:00Z"
 
 image:
   caption:
