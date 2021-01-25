@@ -24,15 +24,15 @@
   weight = 40
 
   
-[[main]]
-  name = "Collaborators"
-  url = "People"
-  weight = 50
+#[[main]]
+#  name = "Collaborators"
+#  url = "People"
+#  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
