@@ -74,7 +74,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Why are some individuals suffering more than others from infections? 
+Why are some individuals suffering more than others from infections?  
+
 I seek to understand why individuals within a given species respond differently to environmental challenges, especially from parasitic organisms. I apply concepts from evolutionary biology to model invertebrates (e.g., <i>Drosophila melanogaster</i>, <i>Daphnia magna</i>), and combine empirical approaches with functional genetics, statistical modelling, genomics, and transcriptomics to study the role of hosts, and parasites, evolution in this variation in disease outcomes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Duneau_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
