@@ -77,6 +77,6 @@ highlight_name: false
 ---
 Why do some individuals suffer more than others from infection?  
 
-I seek to understand why individuals within a given species respond differently to environmental challenges, especially from parasitic organisms. I apply concepts from evolutionary biology to model invertebrates (e.g., <i>Drosophila melanogaster</i>, <i>Daphnia magna</i>), and combine empirical approaches such as controlled infections and functional genetics with statistical modelling, genomics, and transcriptomics to study the role of host, and parasite, evolution in this variation in disease outcomes.
+I seek to understand why individuals within a given species respond differently to environmental challenges, especially from parasitic organisms. I apply concepts from evolutionary biology to model invertebrates (e.g., <i>Drosophila melanogaster</i>, <i>Daphnia magna</i>), and combine empirical approaches such as controlled infections and functional genetics with statistical modelling, genomics, and transcriptomics to study the role of host, and parasite, evolution in this variation in disease outcome.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Duneau_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
