@@ -72,7 +72,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Genetics_basis
+- Genetic_basis
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
