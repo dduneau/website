@@ -19,7 +19,7 @@ image:
    
   
   During my time in Cornell, in the Laboratory of [Brian Lazzaro](http://www.lazzaro.entomology.cornell.edu/index.html), we have shown that part of the reason for this dimorphism is due to a difference in resistance. Using statistical methods, we were able to compare the dynamic intra-host between sexes and we have shown that males control the bacterial proliferation on average few hours earlier than females which makes for the whole difference in survival [(Duneau et al., 2017)](Duneau_BMCBiology_2017.pdf). 
-  {{< figure src="SexDim_WHD.jpg" title="Within-host dynamics of <i>P. rettgeri</i>. Males controlled proliferation on average faster than females." >}}  
+  {{< figure src="SexDim_WHD.jpg" title="Within-host dynamics of <i>P. rettgeri</i>. Males controlled proliferation on average faster than females. (Drawings by @joana_gcc)" >}}  
   
   Using whole genome transcriptomics and functional genetic tools, that allow us to modify host characteristics, we showed that this difference in resistance was due to a difference in innate immunity. 
   
