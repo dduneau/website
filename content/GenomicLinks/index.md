@@ -1,5 +1,5 @@
 ---
-title: Useful genomic links
+title: Sexual dimorphism in transcriptomic response to infection
 tags: []
 
 date: "2018-01-01T00:00:00Z"
