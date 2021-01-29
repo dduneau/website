@@ -16,4 +16,4 @@ We investigate the difference in response 8 hours after the beginning of an infe
 
 {{< figure src="Screenshot_app_becca.png" title="" >}}
 
-Ssee the shiny application developped by Becca Belmonte [(University of Edinburgh)](http://reganlab.bio.ed.ac.uk/people) : [RNAseq from Duneau et al BMC Biology 2017](https://becca-belmonte.shinyapps.io/RNA_seq_analysis/)
+Ssee the shiny application developped by Becca Belmonte [(University of Edinburgh)](http://reganlab.bio.ed.ac.uk/people) : [RNAseq from Duneau et al BMC Biology 2017](https://david-duneau.shinyapps.io/RNAseq_Sex_Dim_Droso_8h_Prett/)
