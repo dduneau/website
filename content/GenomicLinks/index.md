@@ -13,7 +13,7 @@ image:
 ---
 {{< figure src="Screenshot_app_becca.png" title="" >}}
 
-While I was in the laboratory of Brian Lazzaro in Cornell and collaborating with the laboratory of Nicolas Buchon, we studied the sexual dimorphism in gene expression 8 hours after the start of a bacterial infection (<i>Providencia rettgeri</i>) or a wound. Part of the work is pushied in [Duneau et al. BMC Biology 2017](DuneauBMCBiol2017.pdf)
+While I was in the laboratory of Brian Lazzaro in Cornell and collaborating with the laboratory of Nicolas Buchon, we studied the sexual dimorphism in gene expression 8 hours after the start of a bacterial infection (<i>Providencia rettgeri</i>) or a wound. Part of the work is pushied in [Duneau et al. BMC Biology 2017](Duneau_BMCBiology_2017.pdf)
 
 
 * Thanks to the skills of Nicolas Buchon, we were able to have two sets of data, one where we had the whole body and one where he quickly removed the gonads before we could grind the carcass in Tryzol. He tried to minimize the amount of trachea removed in the process, but some must have been removed in the process.  
