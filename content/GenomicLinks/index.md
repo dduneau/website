@@ -24,7 +24,7 @@ While I was in the laboratory of Brian Lazzaro in Cornell and collaborating with
 
 * I performed the analysis with R using notably the package [DEseq2](http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
 
-Navigate through the <i>Shiny</i> application developed by [Becca Belmonte](http://reganlab.bio.ed.ac.uk/people) (Regan lab, Univ. of Edinburgh) : [RNAseq from Duneau et al BMC Biology 2017](https://david-duneau.shinyapps.io/RNAseq_Sex_Dim_Droso_8h_Prett/)
+Navigate through the <i>Shiny</i> application developed with [Becca Belmonte](http://reganlab.bio.ed.ac.uk/people) (Regan lab, Univ. of Edinburgh) : [RNAseq from Duneau et al BMC Biology 2017](https://david-duneau.shinyapps.io/RNAseq_Sex_Dim_Droso_8h_Prett/)
 
 You will be able to:
 * Compare the list of genes implicated in the response to wound, to infection between sexes
