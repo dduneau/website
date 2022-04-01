@@ -1,5 +1,5 @@
 ---
-title: HOST MANIPULATION BY PARASITES
+title: Host manipulation by parasites
 summary: One of the parasite strategy to increase its transmission is to manipulates its host. I started science by studying such strategy.
 tags: ["Parasite manipulation", "Former"]
 
@@ -36,4 +36,4 @@ They can even escape from the nostril and the gills of the predator.
 
 {{< figure src="nematomorpha_narine_frog.jpg" title="Parasite escaping from the nostril of the predator of its host" >}}
 
-As part of my master,  we studied a parasitic trematod (Microphallus papillorobustus) modifying the behavior of shrimps (Gammarus) in order to continue its cycle in birds. Such an alteration in behavior in female shrimp imposes a high risk of predation for juveniles that develop in the maternal brood pouch. We investigated whether parasitic manipulation had selected the possibility for juveniles to develop more quickly when their mothers were infected, but this was not the case [(Ponton et al. 2009)](Ponton_BehavEcol_2009.pdf). 
+As part of my master with [Frédéric Thomas](https://crees-montpellier.com/members/32-member-page/crees-member-32.html),  I studied a parasitic trematod (Microphallus papillorobustus) modifying the behavior of shrimps (Gammarus) in order to continue its cycle in birds. Such an alteration in behavior in female shrimp imposes a high risk of predation for juveniles that develop in the maternal brood pouch. We investigated whether parasitic manipulation had selected the possibility for juveniles to develop more quickly when their mothers were infected, but this was not the case [(Ponton et al. 2009)](Ponton_BehavEcol_2009.pdf). 
