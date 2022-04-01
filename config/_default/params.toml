@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "118 Route de Narbonne", city = "Toulouse", postcode = "31062", country = "France", country_code = "FR"}
+address = {street = "Kings Buildings, Charlotte Auerbach Road", city = "Edinburgh", postcode = "EH9 3FL", country = "Scotland", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.558240", longitude = "1.469308"}
+coordinates = {latitude = "55.924467869854475", longitude = "-3.17147511287538"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 4R1 and turn right, office 032"
+directions = "Ashworth Laboratories"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
