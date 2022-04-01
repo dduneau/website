@@ -12,8 +12,10 @@ authors:
 
 # Author notes (optional)
 #author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- ""
+- ""
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2020-01-31T00:00:00Z"
 doi: "10.3389/fimmu.2019.03075"
