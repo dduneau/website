@@ -10,10 +10,8 @@ role: PhD in Evolutionary parasitology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Instituto Gulbenkian Ciência 
-  url: https://gulbenkian.pt/ciencia/ 
-- name: University Toulouse Paul Sabatier
-  url: https://edb.cnrs.fr/en/
+- name: Institute of Evolutionary Biology at Edinburgh Univ. 
+  url: https://www.ed.ac.uk/biology/evolutionary-biology 
   
 # Short bio (displayed in user profile at end of posts)
 #bio: My research pertain at understanding why some individuals suffer strongly from a given challenge, generally diseases, and other do not.
@@ -79,4 +77,5 @@ Why do some individuals suffer more than others from infection?
 
 I seek to understand why individuals within a given species respond differently to environmental challenges, especially from parasitic organisms. I apply concepts from evolutionary biology to model invertebrates (e.g., <i>Drosophila melanogaster</i>, <i>Daphnia magna</i>), and combine empirical approaches such as controlled infections and functional genetics with statistical modelling, genomics, and transcriptomics to study the role of host, and parasite, evolution in this variation in disease outcome.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Duneau_CV_2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Duneau_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Duneau_Publication_list.pdf" "newtab" >}}Publication list with summaries{{< /staticref >}}.
