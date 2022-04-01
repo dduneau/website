@@ -30,7 +30,7 @@ In order to determine the steps that followed this encounter (i.e. activation of
 
 {{< figure src="Daphnia_labelledPasteuria.jpg" title="Identification of host susceptibility. Fluorescent bacteria are attached on the oesophagous of the susceptible host genotypes, not on the resistant." >}}
 
-Some Pasteuria genotypes were able to infect the host without attaching to the oesophagous. Before the end of my PhD, I found that those genotypes were able to go through the gut and attach to the hindgut before being released. In collaboration with Gilberto Bento and Peter Field, we showed that this alternative strategy had a different genetic basis and opened a whole area of research [Bento et al. 2020](Bento_Heredity_2020).
+Some Pasteuria genotypes were able to infect the host without attaching to the oesophagous. Before the end of my PhD, I found that those genotypes were able to go through the gut and attach to the hindgut before being released. In collaboration with Gilberto Bento and [Peter Field](http://www.peterdfields.com/), we showed that this alternative strategy had a different genetic basis and opened a whole area of research [Bento et al. 2020](Bento_Heredity_2020).
 
 {{< figure src="Pasteuria_on_hindgut.jpg" title="Pasteuria attached to the hindgut of susceptible Daphnia." >}}
 
