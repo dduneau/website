@@ -38,4 +38,4 @@ They can even escape from the nostril and the gills of the predator.
 
 As part of my master with [Frédéric Thomas](https://crees-montpellier.com/members/32-member-page/crees-member-32.html),  I studied a parasitic trematod (Microphallus papillorobustus) modifying the behavior of shrimps (Gammarus) in order to continue its cycle in birds. Such an alteration in behavior in female shrimp imposes a high risk of predation for juveniles that develop in the maternal brood pouch. We investigated whether parasitic manipulation had selected the possibility for juveniles to develop more quickly when their mothers were infected, but this was not the case [(Ponton et al. 2009)](Ponton_BehavEcol_2009.pdf). 
 
-{{< figure src="Larusetgammarus.JPG" title="Unlike healthy individuals, Gammarus infected by the trematod Microphallus papillorobustus are swimming "like crazy" in front of the next host, a sea bird." >}}
+{{< figure src="Larusetgammarus.JPG" title="Unlike healthy individuals, Gammarus infected by the trematod Microphallus papillorobustus are swimming like crazy in front of the next host, a sea bird." >}}
