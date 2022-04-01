@@ -22,4 +22,6 @@ In collaboration with a team of toxicologists, one from population genetics and 
 
 * In another collaboration with [Nicolas Buchon](https://buchonlab.com/index.html) (Cornell University, USA) I studied the genetic basis of the variation in the plasticity of the morphology of the gut in response to diet. [Bonfini et al. 2021](Bonfini_elife_2021.pdf)
 
+{{< figure src="plasticity_gut.jpg" title="Dissections of guts from a <i>Drosophila</i> fed with a diet rich glucose (top picture) or rich in protein (bottom picture)">}}
+
 * In collaboration with [Patricia Beldade](https://ce3c.ciencias.ulisboa.pt/member/patriciabeldade) and [Elvira Lafuente](https://www.eawag.ch/en/aboutus/portrait/organisation/staff/profile/elvira-lafuente/show/) we studied the genetic basis of the variation of plasticity in size and pigmentation in response to temperature ([Lafuente et al., 2018](Lafuente_PLoSGenetics_2018.pdf), Lafuente et al., in prep).  We have shown, among other things, that it is highly unlikely that there is a genetic basis for general phenotypic plasticity. Rather, we show that each phenotype responds plastically to a given element of the environment independently of the other phenotypes. This independence is made possible by a genetic basis specific to each phenotype, which therefore allows plasticity to evolve independently for each trait.
