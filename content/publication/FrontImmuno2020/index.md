@@ -11,7 +11,7 @@ authors:
 - Regan JC
 
 # Author notes (optional)
-#author_notes:
+author_notes:
 - ""
 - ""
 - "Equal contribution"
