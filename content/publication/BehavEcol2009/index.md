@@ -17,7 +17,7 @@ authors:
 # Author notes (optional)
 #author_notes:
 - "Equal contribution"
-#- "Equal contribution"
+- "Equal contribution"
 
 date: "2009-07-10T00:00:00Z"
 doi: "10.1093/beheco/arp092"
