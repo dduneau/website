@@ -12,14 +12,18 @@ image:
   caption:
   focal_point: Smart
 ---
-Within a sick host population, individuals are not equal in the face of illness. This variation, which sometimes results in host survival or death, is present even when controlling for host genetics and environment. We have studied the role of the proliferation in the variation in disease outcome. By monitoring bacterial populations over time within hosts of the same population and using modelling tools ("mixture models"), we were first able to describe the phases of proliferation and propose measures to characterise it. 
-* Bacterial Load Upon Death (BLUD)
-* Set-Point Bacterial Load (SPBL)
+
+This part of my post-doc can be seen as an extension of my "step-by-step" approach to infection, which was the heart of my thesis. I took advantage of the tools offered by <i>D. melanogaster</i> to study in detail the step were pathogens proliferate within their host. I studied the impact of the variations during this step on the outcome of the infection [Duneau et al. 2017](Duneau_eLife_2017).
+Within a population of sick hosts, individuals are not equal when facing diseases. This variation, which sometimes results in the survival or death of hosts, is present even when controlling for the host's genetics and environment. We studied the role of the step of proliferation in mortality variation. Thanks to a monitoring over time of bacterial populations within the hosts of the same population and using modeling tools ("mixture models"), we were first able to describe the phases of the proliferation and propose measures to characterize it. 
+
+* Time to control the infection (Tc)
+* Pathogen Load Upon Death (PLUD)
+* Set-Point Pathogen Load (SPPL)
 
 By modifying the immune characteristics of the host, we were able to determine the relative roles of the host and the parasite in these phases and we established that the variation in the probability of survival depends on the variation in a key parameter of the infectious process: the time that the hosts take to control bacterial proliferation. A difference of a few hours in this control time can make the difference between survival and death. 
 
 
 
+In collaboration with [Jean-Baptiste Ferdy](https://edb.cnrs.fr/annuaire/jean-baptiste-ferdy/), we have used theoretical model and experimental approach to define more specifically the parameters of the infections and determine their role in the two strategies to survive an infection (i.e. controlling the infection - resistance- versus the tolerance of the damage linked to the infection - disease tolerance) [Lafont et al. bioRxiv 2021](https://www.biorxiv.org/content/10.1101/2021.10.19.464998v2.external-links.html). This work aims to finely describe the dynamics of bacteria interacting with the hosts, understand appropriately the parameters, and to compare dynamics statistically.
 
-
-<b>More details to come.</b>
+A continuation of this work allowed us to show that our approach could also be used to characterize the impact of mutations in bacterial pathogens on infection outcomes [Faucher et al., 2021](Faucher_mBio_2020.pdf). The bacterium <i>Xenorhabdus nematophila</i> is in symbiosis with a nematode (<i>Steinernema carpocapsae</i>) to kill insect hosts. The bacterium, carried by the nematode, kills the host and waits until the nematode has reproduced in the host's corpse to reassociate with its vector. During the course of an infection, selection alternately favours two morphs, one that allows the success of the infection and one advantaged in the corpse. The mutation responsible for this second morph has been identified as a mutation in the Lrp gene, a mutation that generally gives an advantage in the stationary phase of growth (mutation called GASP). Our study uses <i>Drosophila</i>'s genetic tools  and the statistical method we developed to characterize the impact of different types of Lrp mutations on infections and understand the characteristics that selected them. We show that GASP mutants are all less virulent but that only missense mutations make bacteria more sensitive to the immune system during proliferation at the beginning of infection. The number of bacteria at the time of death (PLUD) is not affected, suggesting that the toxicity of the bacteria is not altered by the mutation, and that only differences in the ability to grow in the host are responsible for differences in virulence. We show, on the other hand, that the better post-mortem growth of mutants correlates negatively with their virulence. This study introduces a new approach to studying the effects of bacterial mutations in infection, an approach that will be crucial in my future research to characterize experimentally bacterial pathogens.
