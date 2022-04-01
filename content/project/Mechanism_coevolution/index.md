@@ -22,7 +22,7 @@ Specifically,
   <li>which allowed me to discover the stage of infection explaining the cycles of coevolution in this system.</li>
 </ul>
 
-Considering the steps in a relatively simple way, Claude Combes says in his book "Parasitism : The Ecology and Evolution of Intimate Interactions" (1995) that steps in infections can serve as filters that shape host-parasite interactions. In the system of interaction between <i>Daphnia magna</i> and <i>Pasteuria ramosa</i>, previous results suggested that the step at which the parasite must meet its host is crucial and that host behaviour may affect the chances of infection (Decaestecker et al., 2002). 
+Considering the steps in a relatively simple way, Claude Combes says in his book "Parasitism : The Ecology and Evolution of Intimate Interactions" (1995) that steps in infections can serve as filters that shape host-parasite interactions. In the system of interaction between <i>Daphnia magna</i> and <i>Pasteuria ramosa</i>, previous results suggested that the step at which the parasite must meet its host is crucial and that host behaviour may affect the chances of infection [Decaestecker et al., 2002](https://doi.org/10.1073/pnas.082543099). 
 
 {{< figure src="Step_of_infection.jpg" title="Steps of infection of Pasteuria" >}}
 
