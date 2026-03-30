@@ -21,8 +21,8 @@ organizations:
 bio: ""
   
 # Interests to show in About widget
-interests:
-- TBD
+#interests:
+
 
 # Education to show in About widget
 education:
