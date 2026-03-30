@@ -19,7 +19,7 @@ organizations:
   
 # Short bio (displayed in user profile at end of posts)
 #bio: 
-- Guilherme is studying the thermal plasticity of the immune system using Bicyclus anynana butterfly.
+- Guilherme is a master's student in Human Biology and Environment conducting his thesis project on the thermal plasticity of the immune system using Bicyclus anynana butterfly. He is co-supervised with P. Beldade (cE3c).
   
 # Interests to show in About widget
 interests:
