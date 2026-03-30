@@ -3,7 +3,7 @@ widget: people
 headless: true
 active: true
 title: People
-weight: 68
+weight: 10
 
 content:
   user_groups:
