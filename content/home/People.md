@@ -1,4 +1,4 @@
-yaml---
+---
 widget: people
 headless: true
 active: true
