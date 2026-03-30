@@ -1,0 +1,152 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: 'static/media'
+public_folder: '/media'
+
+collections:
+  # -----------------------------------------------
+  # Publications
+  # -----------------------------------------------
+  - name: "publication"
+    label: "Publications"
+    folder: "content/publication"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Authors"
+        name: "authors"
+        widget: "list"
+        default: ["admin"]
+        hint: "Use 'admin' for yourself (David Duneau). Add co-authors as plain text."
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "DOI", name: "doi", widget: "string", required: false }
+      - { label: "Publish Date", name: "publishDate", widget: "datetime" }
+      - label: "Publication Type"
+        name: "publication_types"
+        widget: "list"
+        default: ["2"]
+        hint: "0=Uncategorized, 1=Conference, 2=Journal article, 3=Preprint, 4=Report, 5=Book, 6=Book section, 7=Thesis, 8=Patent"
+      - { label: "Publication venue", name: "publication", widget: "string", hint: "e.g. In *BMC Biology*" }
+      - { label: "Abstract", name: "abstract", widget: "text", required: false }
+      - { label: "Summary", name: "summary", widget: "text", required: false, hint: "Short summary shown in lists. HTML tags like <i> are allowed." }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "PDF path", name: "url_pdf", widget: "string", required: false, hint: "e.g. publication/Manuscript/YourFile.pdf" }
+      - { label: "Code URL", name: "url_code", widget: "string", required: false }
+      - { label: "Dataset URL", name: "url_dataset", widget: "string", required: false }
+      - { label: "Poster URL", name: "url_poster", widget: "string", required: false }
+      - { label: "Slides URL", name: "url_slides", widget: "string", required: false }
+      - { label: "Video URL", name: "url_video", widget: "string", required: false }
+      - label: "Featured Image"
+        name: "image"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Caption", name: "caption", widget: "string", default: "", required: false }
+          - { label: "Focal Point (Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight)", name: "focal_point", widget: "string", default: "", required: false }
+          - { label: "Preview only", name: "preview_only", widget: "boolean", default: false, required: false }
+      - label: "Associated Projects"
+        name: "projects"
+        widget: "list"
+        required: false
+        hint: "Enter project folder names, e.g. sex-dim-dis, whd"
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+
+  # -----------------------------------------------
+  # Projects
+  # -----------------------------------------------
+  - name: "project"
+    label: "Projects"
+    folder: "content/project"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "text", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - label: "Featured Image"
+        name: "image"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Caption", name: "caption", widget: "string", default: "", required: false }
+          - { label: "Focal Point", name: "focal_point", widget: "string", default: "Smart", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+
+  # -----------------------------------------------
+  # Talks
+  # -----------------------------------------------
+  - name: "talk"
+    label: "Talks"
+    folder: "content/talk"
+    path: "{{slug}}/index"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Event", name: "event", widget: "string", required: false }
+      - { label: "Event URL", name: "event_url", widget: "string", required: false }
+      - { label: "Location", name: "location", widget: "string", required: false }
+      - { label: "Summary", name: "summary", widget: "text", required: false }
+      - { label: "Abstract", name: "abstract", widget: "text", required: false }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "End Date", name: "date_end", widget: "datetime", required: false }
+      - { label: "All day event?", name: "all_day", widget: "boolean", default: false, required: false }
+      - label: "Authors"
+        name: "authors"
+        widget: "list"
+        default: ["admin"]
+        required: false
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - label: "Featured Image"
+        name: "image"
+        widget: "object"
+        required: false
+        fields:
+          - { label: "Caption", name: "caption", widget: "string", default: "", required: false }
+          - { label: "Focal Point", name: "focal_point", widget: "string", default: "", required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+
+  # -----------------------------------------------
+  # Authors
+  # -----------------------------------------------
+  - name: "authors"
+    label: "Authors"
+    folder: "content/authors"
+    path: "{{slug}}/_index"
+    create: true
+    fields:
+      - { label: "Name", name: "title", widget: "string" }
+      - { label: "Role/Position", name: "role", widget: "string", required: false }
+      - { label: "Short Bio", name: "bio", widget: "string", required: false }
+      - label: "Interests"
+        name: "interests"
+        widget: "list"
+        required: false
+      - label: "Education"
+        name: "education"
+        widget: "object"
+        required: false
+        fields:
+          - label: "Courses"
+            name: "courses"
+            widget: "list"
+            required: false
+            fields:
+              - { label: "Course", name: "course", widget: "string" }
+              - { label: "Institution", name: "institution", widget: "string" }
+              - { label: "Year", name: "year", widget: "number", required: false }
+      - label: "Social links"
+        name: "social"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Icon (e.g. envelope, twitter, google-scholar)", name: "icon", widget: "string" }
+          - { label: "Icon pack (fas, fab, or ai)", name: "icon_pack", widget: "string" }
+          - { label: "Link", name: "link", widget: "string" }
+      - { label: "Superuser?", name: "superuser", widget: "boolean", default: false }
+      - { label: "Body (full biography)", name: "body", widget: "markdown", required: false }
