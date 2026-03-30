@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ce3c.pt/research/research-groups"
   
 # Short bio (displayed in user profile at end of posts)
-bio: "Guilherme is a master's student in Human Biology and Environment conducting his thesis project on the thermal plasticity of the immune system using Bicyclus anynana butterfly. He is co-supervised with P. Beldade (cE3c)."
+bio: ""
   
 # Interests to show in About widget
 interests:
@@ -47,3 +47,4 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Students"]
 ---
+Guilherme is a master's student in Human Biology and Environment conducting his thesis project on the thermal plasticity of the immune system using Bicyclus anynana butterfly. He is co-supervised with P. Beldade (cE3c).
