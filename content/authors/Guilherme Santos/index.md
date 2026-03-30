@@ -4,7 +4,7 @@ title: Guilherme Santos
 
 # Username (this should match the folder name)
 authors:
-- GSantos
+- Guilherme Santos
 
 # Is this the primary user of the site?
 superuser: false
