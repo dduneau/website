@@ -36,7 +36,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+#social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "fc56174@alunos.ciencias.ulisboa.pt"
@@ -47,3 +47,4 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+[]
