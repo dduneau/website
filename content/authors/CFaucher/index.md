@@ -50,7 +50,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
+user_groups: ["Researchers"]
 ---
 My work pertain to understand the sexual dimorphism in disease outcome using <i>Drosophila</i> functional genetics. I am in charge of the teaching segment on Molecular Biology (second year Biolopy students).
