@@ -10,9 +10,8 @@ role: PhD in Evolutionary biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Center for Ecology, Evolution and Environmental Changes (cE3c), Faculty of Sciences, University of Lisbon
-(FCUL), Portugal. 
-  url: [https://www.ed.ac.uk/biology/evolutionary-biology ](https://www.ce3c.pt/research/research-groups/evolutionary-perspectives-in-a-changing-world/ecological-evolutionary-developmental-biology/david-duneau)
+- name: "Center for Ecology, Evolution and Environmental Changes (cE3c), Faculty of Sciences, University of Lisbon (FCUL), Portugal."
+  url: "https://www.ce3c.pt/research/research-groups/evolution"
   
 # Short bio (displayed in user profile at end of posts)
 #bio: My research pertain at understanding why some individuals suffer strongly from a given challenge, generally diseases, and other do not.
@@ -31,13 +30,13 @@ interests:
 education:
   courses:
   - course: PhD student in Evolutionary Parasitology
-    institution: Dieter Ebert's lab, Basel University, Switzerland
+    institution: "Dieter Ebert's lab, Basel University, Switzerland"
     year: 2011
   - course: Master in Ecology and Evolutionary Biology
-    institution: University of Montpellier II, France
+    institution: "University of Montpellier II, France"
     year: 2006
   - course: BSc in Organismal Biology
-    institution: University of Montpellier II, France
+    institution: "University of Montpellier II, France"
     year: 2005
   
     
@@ -51,7 +50,7 @@ social:
   link: '/#contact'
 - icon: bluesky
   icon_pack: fab
-  link: [https://twitter.com/DDuneau](https://bsky.app/profile/dduneau.bsky.social)
+  link: "https://bsky.app/profile/dduneau.bsky.social"
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.fr/citations?user=VhsB4z0AAAAJ&hl=en
