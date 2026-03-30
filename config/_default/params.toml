@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "david.duneau@gmail.com"
+email = "dduneau@ciencias.ulisboa.pt"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Kings Buildings, Charlotte Auerbach Road", city = "Edinburgh", postcode = "EH9 3FL", country = "Scotland", country_code = "UK"}
+address = {street = "University of Lisbon (FCUL)", city = "Lisboa", postcode = "1749-016", country = "Portugal", country_code = "PT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "55.924467869854475", longitude = "-3.17147511287538"}
+coordinates = {latitude = "38.755945", longitude = "-9.156224"}
 
 # Directions for visitors to locate you.
-directions = "Ashworth Laboratories"
+directions = "C2 Building"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -112,7 +112,7 @@ directions = "Ashworth Laboratories"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DDuneau", link = "https://twitter.com/DDuneau"},
+  {icon = "bluesky", icon_pack = "fab", name = "DDuneau", link = "https://bsky.app/profile/dduneau.bsky.social"},
   #{icon = "skype", icon_pack = "fab", name = "david.duneau", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "DDuneau"
+bluesky = "@dduneau.bsky.social"
 
 ############################
 ## Regional Settings
