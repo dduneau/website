@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position/tagline
-role: Master Student, Lisbon University
+role: "Master Student, Lisbon University"
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Lisbon university
-  url: https://www.ce3c.pt/research/research-groups
+  url: "https://www.ce3c.pt/research/research-groups"
   
 # Short bio (displayed in user profile at end of posts)
 #bio: 
