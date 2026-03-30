@@ -1,12 +1,12 @@
 ---
 # Display name
-title: David Duneau
+title: David Duneau; PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD in Evolutionary biology
+role: PI in Evolutionary biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
