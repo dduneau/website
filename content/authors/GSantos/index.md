@@ -45,6 +45,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: ["Students"]
+user_groups: []
 ---
 Guilherme is a master's student in Human Biology and Environment conducting his thesis project on the thermal plasticity of the immune system using Bicyclus anynana butterfly. He is co-supervised with P. Beldade (cE3c).
