@@ -18,10 +18,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Evolutionary parasitology
+- Evolutionary immunology
 - Infectious diseases
 - Sexual dimorphism
-- Genetic basis of quantitative traits using GWAS
+- Genetic basis of quantitative traits
 - Resistance vs disease tolerance
 - Within-host dynamics and evolution
 - Impact of pollutant on physiology
