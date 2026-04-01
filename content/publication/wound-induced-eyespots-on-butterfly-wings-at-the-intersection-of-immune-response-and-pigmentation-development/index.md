@@ -27,6 +27,9 @@ abstract: >-
   Conclusions
 
   Our findings reveal that immune activation contributes to the development of wound-induced eyespots and impacts both pigmentation pattern formation and wing size regulation. These results underscore the complex interplay between immune function and developmental processes and provide new insights into the origins of lineage-specific morphological innovations. Future studies will address the cellular and molecular mechanisms behind the effects of immune activation on pigmentation development.
+summary: Showed that immune activation modulates wound-induced ectopic eyespot
+  formation in butterfly wings, revealing crosstalk between immune function and
+  pigmentation development.
 featured: false
 image:
   caption: ""
