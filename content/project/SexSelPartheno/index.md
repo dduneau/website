@@ -11,9 +11,9 @@ summary: >+
   II- Seminal fluid proteins are generally considered male tools to manipulate females. We investigated the growing hypothesis that seminal fluid proteins are important signals for females to adjust their egg-laying and mating decisions, and thus help reduce sexual conflict.
 
 tags:
-  - WHD
+  - SexSelPartheno
   - Current
-date: 2018-01-01T00:00:00Z
+date: 2018-01-01T00:00:00.000Z
 external_link: ""
 image:
   caption: null
