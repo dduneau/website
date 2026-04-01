@@ -36,7 +36,8 @@ social:
     link: https://scholar.google.fr/citations?user=VhsB4z0AAAAJ&hl=en
 superuser: true
 highlight_name: false
-email: ""
+email: "dduneau@ciencias.ulisboa.pt"
+user_groups: ["Principal Investigator"]
 ---
 Why do some individuals suffer more than others from infection?  
 
