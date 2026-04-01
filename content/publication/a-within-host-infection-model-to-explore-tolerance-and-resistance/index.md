@@ -43,9 +43,11 @@ summary: Developed a within-host infection model integrating theory and
   Provided a practical experimental framework for explaining individual
   differences in susceptibility to infection, a methodological foundation
   applied in subsequent work.
-featured: false
+featured: true
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+projects:
+  - WHD
 ---
