@@ -1,0 +1,10 @@
+---
+widget: blank
+headless: true
+active: true
+weight: 1
+title: Duneau Lab
+subtitle: Evolutionary Immunology & Host-Pathogen Interactions
+design:
+  columns: "1"
+---
