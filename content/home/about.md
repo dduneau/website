@@ -10,7 +10,7 @@ active: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 5
 
 title: About the lab
 
