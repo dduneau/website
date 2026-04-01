@@ -36,7 +36,7 @@ summary: Developed a biologically informed theoretical model showing how seminal
   remains possible.
 tags: []
 featured: false
-url_pdf: publication/Manuscript/Duneau_BMCBiol_2011.pdf
+url_pdf: ""
 image:
   caption: "Image credit: [**David Duneau**]"
   focal_point: ""
