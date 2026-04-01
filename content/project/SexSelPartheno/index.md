@@ -1,15 +1,22 @@
 ---
-title: Sexual selection in parthenogenetic species
-summary: Parthenogenetic species produce mainly daughter without males. We study the selection during the rare event of sexual reproduction.
-tags: ["WHD","Current"]
+title: Sexual selection and conflicts
+summary: >+
+  In the interest of better understanding the differences between sexes, we have
+  studied sexual selection and conflict. We did so in two ways:
 
-date: "2018-01-01T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
+  I- Parthenogenetic species produce mainly daughters without males. We study selection during the rare events of sexual reproduction in Daphnia.
+
+
+  II- Seminal fluid proteins are generally considered male tools to manipulate females. We investigated the growing hypothesis that seminal fluid proteins are important signals for females to adjust their egg-laying and mating decisions, and thus help reduce sexual conflict.
+
+tags:
+  - WHD
+  - Current
+date: 2018-01-01T00:00:00Z
 external_link: ""
-
 image:
-  caption:
+  caption: null
   focal_point: Smart
 ---
 
