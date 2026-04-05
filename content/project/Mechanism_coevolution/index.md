@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 ---
 
-During my thesis (06/2007-09/2011) at the University of Basel, Switzerland, under the supervision of Dieter Ebert, I worked on the interaction between the crustacean host Daphnia magna and one of its natural parasites, the bacterium <i>Pasteuria ramosa</i> – an important ecological model to study co-evolution. 
+During my thesis (06/2007-09/2011) at the University of Basel, Switzerland, under the supervision of [Dieter Ebert](https://www.evolution.unibas.ch/ebert/index.htm), I worked on the interaction between the crustacean host Daphnia magna and one of its natural parasites, the bacterium <i>Pasteuria ramosa</i> – an important ecological model to study co-evolution. 
 Specifically, 
 <ul>
   <li>I developed a method to determine the susceptibility or resistance of a Daphnia genotype to a <i>P. ramosa</i> genotype, </li>
