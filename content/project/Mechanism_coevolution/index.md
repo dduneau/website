@@ -14,23 +14,23 @@ image:
   focal_point: Smart
 ---
 
-During my thesis (06/2007-09/2011) at the University of Basel, Switzerland, under the supervision of Dieter Ebert, I was able to work on the interaction between the crustacean host Daphnia magna and one of its natural parasites, the bacterium Pasteuria ramosa – an important ecological model to study co-evolution. 
+During my thesis (06/2007-09/2011) at the University of Basel, Switzerland, under the supervision of Dieter Ebert, I worked on the interaction between the crustacean host Daphnia magna and one of its natural parasites, the bacterium <i>Pasteuria ramosa</i> – an important ecological model to study co-evolution. 
 Specifically, 
 <ul>
-  <li>I developed a method to determine the susceptibility or resistance of a Daphnia genotype to a P. ramosa genotype, </li>
-  <li>I described the stages of infection and thus the parameters that affect them,</li>   
-  <li>which allowed me to discover the stage of infection underlying the cycles of coevolution in this system.</li>
+  <li>I developed a method to determine the susceptibility or resistance of a Daphnia genotype to a <i>P. ramosa</i> genotype, </li>
+  <li>I described the steps of infection and thus the parameters that affect them,</li>   
+  <li>I discovered the step of infection underlying the cycles of coevolution in this system.</li>
 </ul>
 
-Considering the steps in a relatively simple way, Claude Combes says in his book "Parasitism : The Ecology and Evolution of Intimate Interactions" (1995) that steps in infections can serve as filters that shape host-parasite interactions. In the system of interaction between <i>Daphnia magna</i> and <i>Pasteuria ramosa</i>, previous results suggested that the step at which the parasite must meet its host is crucial and that host behaviour may affect the chances of infection [Decaestecker et al., 2002](https://doi.org/10.1073/pnas.082543099).
+To frame these steps simply, one can refer to Claude Combes, who argues in his book "Parasitism : The Ecology and Evolution of Intimate Interactions" (1995) that steps in infections can serve as filters that shape host-parasite interactions. In the system of interaction between <i>Daphnia magna</i> and <i>Pasteuria ramosa</i>, previous results suggested that the step at which the parasite must meet its host is crucial and that host behaviour may affect the chances of infection [Decaestecker et al., 2002](https://doi.org/10.1073/pnas.082543099).
 
 {{< figure src="Step_of_infection.jpg" title="Steps of infection of Pasteuria" >}}
 
 In order to determine the steps that followed this encounter (i.e. activation of the bacterial spore, attachment to the host, proliferation and transmission) and to determine their role in the interaction between the two protagonists, I developed a simple and effective method that is currently used routinely in Dieter Ebert's laboratory. This method allowed me to first explain that the effect of genotype-genotype interaction on infection success could be completely explained by differences  in the probability of attachment of the bacterium to the esophagus of its host, thus revealing the basis of the coevolution between <i>D. magna</i> and  <i>P. ramosa</i> [Duneau et al., 2011](Duneau_BMCBiol_2011.pdf). Neither host density nor sex affected the probability of activation and attachment. Taking into account  each individual step made it possible to reconcile theoretical models studying genotype x genotype interaction [Luijckx et al., 2012](Luijckx_Heredity_2012.pdf) and [Luijckx et al., 2013](Luijckx_CurBiol_2013.pdf). Overall, we show that considering the steps of infection was crucial to understand the evolution of host-parasite interactions [Ebert et al. 2016](Ebert_AdvParasitol_2016.pdf).
 
-{{< figure src="Daphnia_labelledPasteuria.jpg" title="Identification of host susceptibility. Fluorescent bacteria are attached on the oesophagous of the susceptible host genotypes, not on the resistant." >}}
+{{< figure src="Daphnia_labelledPasteuria.jpg" title="Identification of host susceptibility. Fluorescent bacteria are attached on the oesophagus of the susceptible host genotypes, not on the resistant." >}}
 
-Some Pasteuria genotypes were able to infect the host without attaching to the oesophagous. Before the end of my PhD, I found that those genotypes were able to go through the gut and attach to the hindgut before being released. In collaboration with Gilberto Bento and [Peter Field](http://www.peterdfields.com/), we showed that this alternative strategy had a different genetic basis and opened a whole area of research [Bento et al. 2020](Bento_Heredity_2020.pdf).
+Some Pasteuria genotypes were able to infect the host without attaching to the oesophagus. Before the end of my PhD, I found that those genotypes were able to go through the gut and attach to the hindgut before being released. In collaboration with Gilberto Bento and [Peter Field](http://www.peterdfields.com/), we showed that this alternative strategy had a different genetic basis and opened a whole area of research [Bento et al. 2020](Bento_Heredity_2020.pdf).
 
 {{< figure src="Pasteuria_on_hindgut.jpg" title="Pasteuria attached to the hindgut of susceptible Daphnia." >}}
 
@@ -40,6 +40,6 @@ We then showed that the cuticle that covers the esophagus on which the bacteria 
 
 {{< figure src="Daphnia_molt_pasteuria.jpg" title="The molting process can prevent the penetration of parasites. Molt of a <i>Daphnia</i> exposed to the bacterium <i>P. ramosa</i> seen either in light (a) or in fluorescence (b). The high fluorescence represents the bacteria attached to the esophagus (c). These bacteria have therefore not been able to penetrate the body of the host where they will have the opportunity to replicate." >}}
 
-Finally, we challenged the idea that <i>Daphnia magna</i> has a specific immune memory to reduce the risk of intra-host proliferation. To achieve this result, we had to carry out a large number of controls, use antibiotics to ensure that the bacteria from the first infectious challenge was no longer in the host, and wait more than a week before reinfecting the host, in order to increase the likelihood that the immune response related to the first challenge has disappeared. By quantifying intra-host proliferation and the probability of infection when hosts were previously exposed or not to a <i>P. ramosa</i> genotype, we found no evidence to validate the hypothesis that there is immune memory in this invertebrate model [Duneau et al., 2016](Duneau_DCI_2016.pdf).
+Finally, we challenged the idea that <i>Daphnia magna</i> has a specific immune memory to reduce the risk of intra-host proliferation. To achieve this result, we had to carry out a large number of controls, use antibiotics to ensure that the bacteria from the first infectious challenge were no longer in the host, and wait more than a week before reinfecting the host, in order to increase the likelihood that the immune response related to the first challenge had disappeared. By quantifying intra-host proliferation and the probability of infection when hosts were previously exposed or not to a <i>P. ramosa</i> genotype, we found no evidence to validate the hypothesis that there is immune memory in this invertebrate model [Duneau et al., 2016](Duneau_DCI_2016.pdf).
 
 
