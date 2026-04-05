@@ -13,18 +13,18 @@ image:
   focal_point: Smart
 ---
 
-To complete their life cycle, parasites can manipulate their host. Such example of extended phenotype provides some of the most extraordinary stories in biology. 
+To complete their life cycle, parasites can manipulate their host. This example of the extended phenotype provides some of the most extraordinary stories in biology. 
 <h3>I have studied two of them:</h3>
 <ul>
   <li>Trematode - Gammarus - bird </li>
   <li>Hairworm - cricket</li>
 </ul>  
 
-One of the most fascinating examples of parasite-induced host manipulation is that of hairworms (nematomorpha). As juveniles, freshwater hairworms are mostly parasites of insects but, once adult, they are free living and need to enter water to gather with other males and females, making Gordian knots, to mate and produce infective stages. 
+One of the most fascinating examples of parasite-induced host manipulation is that of hairworms (nematomorpha). As juveniles, freshwater hairworms are mostly parasites of insects but, once adult, they are free-living and need to reach water, where they form Gordian knots, mate, and produce infective stages.. 
 
 {{< video src="Gordian_knot.mp4" controls="yes">}} 
 
-Insects, such as crickets, harboring mature hairworms display a new and original behavior: they seek water to immerse themselves. We found that such infected insects were attracted by the light, which seems to be the best way to find an open space with a water body in a forest [(Ponton et al. 2011)](Ponton_BehavEcol_2011.pdf). This behavior, originally absent from the host’s repertoire, allows the parasite to emerge from its host into the aquatic environment it needs to continue its life cycle.
+Insects harboring mature hairworms, such as crickets, display a new and original behavior: they seek water to immerse themselves. We found that such infected insects were attracted by the light, which seems to be the best way to find an open space with a water body in a forest [(Ponton et al. 2011)](Ponton_BehavEcol_2011.pdf). This behavior, originally absent from the host’s repertoire, allows the parasite to emerge from its host into the aquatic environment it needs to continue its life cycle.
 
 {{< video src="Hairworm_jumping.mp4" controls="yes">}} 
 
@@ -36,6 +36,6 @@ They can even escape from the nostril and the gills of the predator.
 
 {{< figure src="nematomorpha_narine_frog.jpg" title="Parasite escaping from the nostril of the predator of its host" >}}
 
-As part of my master with [Frédéric Thomas](https://crees-montpellier.com/members/32-member-page/crees-member-32.html),  I studied a parasitic trematod (Microphallus papillorobustus) modifying the behavior of shrimps (Gammarus) in order to continue its cycle in birds. Such an alteration in behavior in female shrimp imposes a high risk of predation for juveniles that develop in the maternal brood pouch. We investigated whether parasitic manipulation had selected the possibility for juveniles to develop more quickly when their mothers were infected, but this was not the case [(Ponton et al. 2009)](Ponton_BehavEcol_2009.pdf). 
+As part of my master with [Frédéric Thomas](https://crees-montpellier.com/members/32-member-page/crees-member-32.html),  I studied a parasitic trematod (Microphallus papillorobustus) modifying the behavior of amphipods (Gammarus) in order to continue its cycle in birds. Such an alteration in behavior in female amphipod imposes a high risk of predation for juveniles that develop in the maternal brood pouch. We investigated whether parasitic manipulation had selected the possibility for juveniles to develop more quickly when their mothers were infected, but this was not the case [(Ponton et al. 2009)](Ponton_BehavEcol_2009.pdf). 
 
 {{< figure src="Larusetgammarus.JPG" title="Unlike healthy individuals, Gammarus infected by the trematod Microphallus papillorobustus are swimming like crazy in front of the next host, a sea bird." >}}
