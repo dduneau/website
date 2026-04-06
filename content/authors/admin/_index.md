@@ -2,7 +2,7 @@
 organizations:
   - name: Center for Ecology, Evolution and Environmental Changes (cE3c), Faculty of
       Sciences, University of Lisbon (FCUL), Portugal.
-    url: https://www.ce3c.pt/research/research-groups/evolution
+    url: https://www.ce3c.pt/research/research-groups
 title: David Duneau
 role: PI in Evolutionary biology
 interests:
