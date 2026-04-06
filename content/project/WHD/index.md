@@ -21,7 +21,7 @@ Within a population of sick hosts, individuals are not equal when facing disease
 * Pathogen Load Upon Death (PLUD)
 * Set-Point Pathogen Load (SPPL)
 
-By modifying the immune characteristics of the host, we were able to determine the relative roles of the host and the parasite in this phase. We established that the variation in the probability of survival depends on a key parameter of the infectious process: the time that hosts take to control bacterial proliferation. A difference of a few hours in this control time can make the difference between survival and death.
+By modifying the immune characteristics of the host, in collaboration with [Nicolas Buchon](https://buchonlab.com/index.html), we were able to determine the relative roles of the host and the parasite in this phase. We established that the variation in the probability of survival depends on a key parameter of the infectious process: the time that hosts take to control bacterial proliferation. A difference of a few hours in this control time can make the difference between survival and death.
 
 {{< figure src="figure_experimental_WHD.jpg" title="Description of the dynamics of intra-host bacterial proliferation.">}}
 
