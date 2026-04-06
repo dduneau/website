@@ -14,7 +14,7 @@ role: "PhD Student, Toulouse University"
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Toulouse university
+- name: "Toulouse university, France"
   url: ""
   
 # Short bio (displayed in user profile at end of posts)
