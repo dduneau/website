@@ -18,10 +18,10 @@ organizations:
   url: ""
   
 # Short bio (displayed in user profile at end of posts)
-bio: "used mathematical models to show that seminal fluid proteins in Drosophila can benefit female reproduction and attenuate sexual conflict, rather than being tools of male manipulation."
+bio: ""
 
 # Interests to show in About widget
-#interests:
+interests: "used mathematical models to show that seminal fluid proteins in Drosophila can benefit female reproduction and attenuate sexual conflict, rather than being tools of male manipulation."
 
 
 # Education to show in About widget
