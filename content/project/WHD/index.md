@@ -31,7 +31,7 @@ If the exponential growth of the bacterial population is controlled before reach
 
 The tipping point is described here as a simple function of the load, but it is most probably not that simple and may also depend on the time spent at a given load. In other words, a host may reach the tipping point not because of the bacterial density <i>per se</i>, but because it can no longer tolerate the damage caused by a bacterial population, even a stable one, over a prolonged period.
 
-We reviewed the potential of insect models for studying within-host dynamics and the emerging parameters that characterize disease outcomes [Duneau & Ferdy, 2022](publication/**pathogen-within-host-dynamics-and-disease-outcome-what-can-we-learn-from-insect-studies**).
+We reviewed the potential of insect models for studying within-host dynamics and the emerging parameters that characterize disease outcomes [Duneau & Ferdy, 2022](publication/pathogen-within-host-dynamics-and-disease-outcome-what-can-we-learn-from-insect-studies).
 
 In collaboration with [Jean-Baptiste Ferdy](https://crbe.cnrs.fr/annuaire/ferdy/), we used theoretical models and experimental approaches to define more specifically the parameters of infection and determine their role in the two strategies to survive an infection (i.e. controlling the infection — resistance — versus tolerating the damage linked to the infection — disease tolerance) [Duneau et al. eLife 2025](https://elifesciences.org/articles/104052). This work aims to describe precisely the dynamics of bacteria interacting with their hosts, to characterize the relevant parameters, and to compare dynamics statistically.
 
