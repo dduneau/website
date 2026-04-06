@@ -23,7 +23,7 @@ image:
   
   Using whole genome transcriptomics and functional genetic tools, that allow us to modify host characteristics, we showed that this difference in resistance was due to a difference in innate immunity. 
   
-  {{< figure src="SexDim_RNAseq.jpg" title="Transcriptomic analysis comparing the response to infection (8h) in males and females. The induction of the AMP Drosomycin, from the Toll pathway, was largely sexually dimorphic." >}}  
+  {{< figure src="SexDim_RNAseq.jpg" width="40%" title="Transcriptomic analysis comparing the response to infection (8h) in males and females. The induction of the AMP Drosomycin, from the Toll pathway, was largely sexually dimorphic." >}}  
   
   More particularly, males and females differ in their recognition of Gram-negative and Gram-positive bacterial infection by the Toll pathway via the Persephone branch of the immune system. Hence, our results suggest not only that studies on immunity should include both sexes, a practice that concern so far only 14% of the studies with (<i>Drosophila</i>) [(Belmonte et al., 2020)](Belmonte_Front.Immuno_2020.pdf), but also that both sexes represents different environments to their parasites, an observation that is likely to play a role on parasite evolution.
 
