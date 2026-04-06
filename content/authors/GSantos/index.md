@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ce3c.pt/research/research-groups"
   
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "studies the developmental thermal plasticity of <i>Bicyclus anynana</i> immune system."
   
 # Interests to show in About widget
 #interests:
