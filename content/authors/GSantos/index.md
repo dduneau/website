@@ -47,4 +47,4 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: ["Students"]
 ---
-Guilherme is a master's student in Human Biology and Environment conducting his thesis project on the thermal plasticity of the immune system using Bicyclus anynana butterfly. He is co-supervised with P. Beldade (cE3c).
+Guilherme is a master's student in Human Biology and Environment conducting his thesis project on the thermal plasticity of the immune system using Bicyclus anynana butterfly. He is co-supervised with [P. Beldade](https://www.ce3c.pt/research/research-groups/evolutionary-perspectives-in-a-changing-world/ecological-evolutionary-developmental-biology/patricia-beldade) (cE3c).
