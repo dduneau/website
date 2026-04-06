@@ -9,19 +9,16 @@ headless: true
 # Order that this section appears on the page.
 weight: 7
 
-title: Collaborators
-subtitle: (Main)
+title: People
+subtitle: Our team and collaborators
 
 content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigators
-  - Researchers
-  - Grad Students
-  - Administration
-  - Visitors
-  - Alumni
+    - Principal Investigator
+    - Students
+    - Former Students
+    - Collaborators
+    
 design:
   show_interests: false
   show_role: true
