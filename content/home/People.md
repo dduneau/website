@@ -9,5 +9,6 @@ content:
   user_groups:
     - Principal Investigator
     - Students
+    - Former students
     - Collaborators
 ---
