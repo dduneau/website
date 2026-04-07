@@ -8,6 +8,12 @@ authors:
 date: 2026-03-01T00:00:00Z
 doi: 10.1086/740809
 publishDate: 2026-02-05T09:04:00.000+00:00
+
+author_notes: 
+  - ""
+  - "Equal contribution"
+  - "Equal contribution"
+ 
 publication_types:
   - "2"
 publication: In *American Naturalist*
