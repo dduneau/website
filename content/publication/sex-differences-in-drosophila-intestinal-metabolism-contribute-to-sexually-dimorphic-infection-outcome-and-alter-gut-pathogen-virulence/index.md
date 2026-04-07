@@ -31,6 +31,15 @@ abstract: Sexual dimorphism in infection outcomes is a pervasive phenomenon, the
   female-biased virulence of P. entomophila. Thus, the effect of the gut
   metabolic environment on host defenses and pathogen virulence determines the
   sex differences in intestinal infection outcomes.
+summary: "We studied the sexual dimorphism of intestinal infections of D.
+  melanogaster. We showed that males exhibit increased a key antioxidant defence
+  system. It allows them to withstand oxidative stress-induced defecation
+  blockage and clear the pathogen from the intestine, resulting in survival. We
+  also showed that the bacteria showed increased expression of several virulence
+  factors in female gut, indicating a change in pathogen behaviour depending on
+  the host they infect (a theory I have been developing since Duneau & Ebert
+  PLoS Biol. 2012). Contribution: I trained the first author to perform the
+  analyses, and I analysed the GWAS."
 featured: false
 image:
   caption: ""
