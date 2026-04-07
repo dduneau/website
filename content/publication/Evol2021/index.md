@@ -43,7 +43,7 @@ summary: We tested the effects of circadian temperature fluctuations on a series
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
