@@ -4,7 +4,7 @@ title: "Pathogen within-host dynamics and disease outcome: what can we learn
 authors:
   - admin
   - JB Ferdy
-date: 2026-04-06T22:19:00.000+02:00
+date: 2022-04-27T22:19:00.000+02:00
 doi: https://doi.org/10.1016/j.cois.2022.100925 2214-5745
 publishDate: 2022-04-27T22:19:00.000+02:00
 publication_types:
