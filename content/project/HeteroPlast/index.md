@@ -25,7 +25,7 @@ Using the Drosophila melanogaster Genetic Reference Panel (DGRP) and genome-wide
 
 In collaboration with Nicolas Buchon (Cornell University, USA), we showed that the Drosophila midgut plastically resizes in response to dietary composition, through coordinated changes in stem cell dynamics and enterocyte size [(Bonfini et al. 2021)](https://elifesciences.org/articles/64125).
 
-{{< figure src="plasticity_gut.jpg" title="Guts from Drosophila fed a glucose-rich diet (top) or a protein-rich diet (bottom)">}}
+{{< figure src="plasticity_gut.jpg" width= "60%" title="Guts from Drosophila fed a glucose-rich diet (top) or a protein-rich diet (bottom)">}}
 
 In collaboration with [Patricia Beldade](https://www.ce3c.pt/research/research-groups/evolutionary-perspectives-in-a-changing-world/ecological-evolutionary-developmental-biology/patricia-beldade) and [Elvira Lafuente](https://www.ce3c.pt/research/research-groups/environment-and-health-interactions/genotype-to-phenotype-of-the-immune-response/elvira-lafuente), we studied genetic variation in thermal plasticity for body size and pigmentation in Drosophila ([Lafuente et al. 2018](https://doi.org/10.1371/journal.pgen.1007686); [Lafuente et al., 2024](https://doi.org/10.1111/mec.17294)). A key finding is that plasticity is trait-specific: each phenotype responds to a given environmental variable largely independently, underpinned by its own set of genetic variants. This means plasticity can evolve independently for each trait, making a shared genetic basis for "general plasticity" unlikely. We also found that alleles reducing plasticity tend to be at lower frequency, consistent with selection favouring the maintenance of plastic responses.
 
