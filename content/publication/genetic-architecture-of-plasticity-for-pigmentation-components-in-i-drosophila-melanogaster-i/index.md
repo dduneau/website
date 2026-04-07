@@ -1,6 +1,6 @@
 ---
 title: "Genetic architecture of plasticity for pigmentation components in
-  <i>Drosophila melanogaster</i>. "
+  Drosophila melanogaster. "
 authors:
   - Lafuente E
   - admin
