@@ -41,6 +41,7 @@ image:
   caption: "Image credit: [**David Duneau**]"
   focal_point: ""
   preview_only: true
+
 projects:
-  - Sexual conflicts
+  - SexSelPartheno
 ---
