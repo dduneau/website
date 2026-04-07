@@ -20,7 +20,7 @@ Phenotypic plasticity — the ability of a single genotype to produce different 
 
 Using the <i>Drosophila melanogaster</i> Genetic Reference Panel (DGRP) and genome-wide association studies (GWAS), we have explored the genetic architecture of plastic responses to different environments. The tractability of Drosophila allows us to go beyond candidate gene identification and functionally validate GWAS hits, making it a powerful system for dissecting the genetics of plasticity.
 
-{{< figure src="manhattan_plot.png" title="Manhattan plot with the DGRP">}}
+{{< figure src="manhattan_plot.jpeg" title="Manhattan plot with the DGRP">}}
 
 
 In collaboration with Nicolas Buchon (Cornell University, USA), we showed that the Drosophila midgut plastically resizes in response to dietary composition, through coordinated changes in stem cell dynamics and enterocyte size [(Bonfini et al. 2021)](https://elifesciences.org/articles/64125).
