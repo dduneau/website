@@ -4,12 +4,14 @@ title: "Genetic architecture of plasticity for pigmentation components in
 authors:
   - Lafuente E
   - admin
-  - Beldade P.
+  - Beldade P
+    
 date: 2024-02-16T09:03:00.000+01:00
 doi: doi.org/10.1111/mec.17294
 publishDate: 2025-02-16T09:04:00.000+01:00
 publication_types:
   - "2"
+
 publication: in "Molecular Ecology"
 abstract: "Seasonal differences in insect pigmentation are attributed to the
   influence of ambient temperature on pigmentation development. This thermal
