@@ -18,7 +18,7 @@ image:
 
 Phenotypic plasticity — the ability of a single genotype to produce different phenotypes depending on the environment — is a major source of phenotypic heterogeneity. We study how plasticity shapes trait variation, its genetic basis, and how it can explain variation in host–parasite interactions.
 
-Using the Drosophila melanogaster Genetic Reference Panel (DGRP) and genome-wide association studies (GWAS), we have explored the genetic architecture of plastic responses to different environments. The tractability of Drosophila allows us to go beyond candidate gene identification and functionally validate GWAS hits, making it a powerful system for dissecting the genetics of plasticity.
+Using the <i>Drosophila melanogaster</i> Genetic Reference Panel (DGRP) and genome-wide association studies (GWAS), we have explored the genetic architecture of plastic responses to different environments. The tractability of Drosophila allows us to go beyond candidate gene identification and functionally validate GWAS hits, making it a powerful system for dissecting the genetics of plasticity.
 
 {{< figure src="manhattan_plot.png" title="Manhattan plot with the DGRP">}}
 
