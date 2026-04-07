@@ -9,6 +9,11 @@ authors:
   - X Jin
   - N Buchon
   - JB Ferdy
+
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
 date: 2025-02-13T09:10:00.000+00:00
 doi: https://doi.org/10.7554/eLife.104052
 publishDate: 2025-02-13T09:10:00.000+00:00
