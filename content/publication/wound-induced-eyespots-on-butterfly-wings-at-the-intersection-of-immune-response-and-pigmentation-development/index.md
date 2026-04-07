@@ -7,6 +7,14 @@ authors:
   - G Atencio
   - admin
   - P Beldade
+
+author_notes:
+- ""
+- ""
+- ""
+- "Equal contribution"
+- "Equal contribution"
+  
 date: 2025-10-29T08:54:00.000+00:00
 doi: https://doi.org/10.1186/s12915-025-02397-3
 publishDate: 2025-10-29T09:00:00.000+00:00
