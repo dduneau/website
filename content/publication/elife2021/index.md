@@ -40,7 +40,7 @@ summary: We studied the phenotypic plasticity of Drosophila gut in response to g
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
