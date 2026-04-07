@@ -1,6 +1,7 @@
 ---
 title: Genetic basis of quantitative traits
-summary: Genetic variation is the raw material for evolution. We pertain to identify, using GWAS and the Drosophila Reference Genetic Panel (DGRP), the genetic basis of various quantitative traits (e.g. phenotypic plasticity, insecticide resistance).
+summary: We are using GWAS and the Drosophila Reference Genetic Panel (DGRP) to study the genetic basis of various quantitative traits (e.g. phenotypic plasticity, insecticide resistance).
+
 tags:
 - Genetic_basis
 - Current
