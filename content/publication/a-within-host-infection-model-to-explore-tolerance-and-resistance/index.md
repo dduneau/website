@@ -11,8 +11,14 @@ authors:
   - JB Ferdy
 
 author_notes:
+- "Equal contribution/Corresponding"
 - "Equal contribution"
-- "Equal contribution"
+-  ""
+-  ""
+-  ""
+-  ""
+-  ""
+-  "Corresponding"
 
 date: 2025-02-13T09:10:00.000+00:00
 doi: https://doi.org/10.7554/eLife.104052
