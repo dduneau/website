@@ -1,5 +1,5 @@
 ---
-title: Phenotypic plasicity as generator of phenotypic variation
+title: Phenotypic plasticity as generator of phenotypic variation
 summary: Genetic variation is the raw material for evolution. We pertain to study how phenotypic plasticity generates phenotypic heterogeneity, its genetic basis, and how it can explain variation in host-parasite interactions.
 
 tags:
