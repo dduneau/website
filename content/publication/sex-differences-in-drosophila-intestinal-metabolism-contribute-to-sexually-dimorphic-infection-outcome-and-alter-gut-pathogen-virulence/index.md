@@ -24,8 +24,7 @@ summary: "We studied the sexual dimorphism of intestinal infections of D.
   also showed that the bacteria showed increased expression of several virulence
   factors in female gut, indicating a change in pathogen behaviour depending on
   the host they infect (a theory I have been developing since Duneau & Ebert
-  PLoS Biol. 2012). Contribution: I trained the first author to perform the
-  analyses, and I analysed the GWAS."
+  PLoS Biol. 2012)."
 featured: false
 image:
   caption: ""
